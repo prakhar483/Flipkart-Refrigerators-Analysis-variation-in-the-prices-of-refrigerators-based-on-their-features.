@@ -1,0 +1,817 @@
+,Brand,Capacity,Door_Type,Cool_type,Star_rating,Digital_inverter,Rating,No_of_rating,No_of_review,Compressor_type,Built_in_stablizer,Product_warranty,Compressor_warranty,Price,Original_price,Discount
+0,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹16,390","₹22,999",28% off
+1,SAMSUNG,236 L,Double Door,,2 Star,yes,4.4,"20,900 Ratings","1,504 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹24,990","₹35,990",30% off
+2,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹16,390","₹22,999",28% off
+3,SAMSUNG,236 L,Double Door,,3 Star,yes,4.4,"20,900 Ratings","1,504 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹26,990","₹40,990",34% off
+4,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹17,490","₹22,999",23% off
+5,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹17,490","₹22,999",23% off
+6,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"12,919 Ratings",878 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹17,990","₹21,999",18% off
+7,Haier,190 L,Single Door, Direct Cool,4 Star,no,4.4,"16,705 Ratings","1,279 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹15,490","₹23,990",35% off
+8,Admiral,175 L,Single Door, Direct Cool,3 Star,no,4.1,233 Ratings,21 Reviews,Reciprocating Compressor,yes,3 Years, 5 ,"₹10,290","₹19,499",47% off
+9,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹17,490","₹22,999",23% off
+10,Haier,190 L,Single Door, Direct Cool,5 Star,no,4.4,"16,183 Ratings","1,243 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹16,490","₹24,490",32% off
+11,Whirlpool,207 L,Single Door, Direct Cool,5 Star,no,4.3,"15,637 Ratings","1,110 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹18,490","₹25,850",28% off
+12,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"14,017 Ratings",765 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹11,790","₹15,400",23% off
+13,Haier,185 L,Single Door, Direct Cool,2 Star,no,4.3,"7,737 Ratings",550 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹11,990","₹17,090",29% off
+14,LG,185 L,Single Door, Direct Cool,5 Star,no,4.5,"15,862 Ratings","1,018 Reviews",Smart Inverter Compressor,yes,1 Year, 10 ,"₹17,690","₹23,899",25% off
+15,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹17,490","₹22,999",23% off
+16,Haier,190 L,Single Door, Direct Cool,4 Star,no,4.4,"16,705 Ratings","1,279 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹14,990","₹20,990",28% off
+17,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"12,919 Ratings",878 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹17,990","₹21,999",18% off
+18,Whirlpool,184 L,Single Door, Direct Cool,4 Star,no,4.3,"15,637 Ratings","1,110 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹15,790","₹20,700",23% off
+19,SAMSUNG,223 L,Single Door, Direct Cool,3 Star,yes,4.4,"14,564 Ratings","1,432 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹19,590","₹25,999",24% off
+20,Whirlpool,270 L,Triple Door,,,no,4.3,"25,002 Ratings","2,543 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹28,490","₹38,300",25% off
+21,Voltas,183 L,Single Door, Direct Cool,3 Star,no,4.3,"5,271 Ratings",346 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹13,490","₹25,190",46% off
+22,MarQ,90 L,Single Door, Direct Cool,1 Star,no,4.2,"5,006 Ratings",543 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹8,990","₹14,990",40% off
+23,Godrej,234 L,Single Door, Direct Cool,5 Star,no,4.3,"4,434 Ratings",382 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹19,890","₹24,000",17% off
+24,Whirlpool,235 L,Triple Door,,,no,4.3,"25,002 Ratings","2,543 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹25,990","₹34,190",23% off
+25,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"5,271 Ratings",346 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹12,590","₹25,990",51% off
+26,Voltas,208 L,Single Door, Direct Cool,3 Star,no,4.4,"5,456 Ratings",446 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹15,990","₹25,490",37% off
+27,SAMSUNG,223 L,Single Door, Direct Cool,3 Star,yes,4.4,"14,564 Ratings","1,432 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹19,590","₹24,999",21% off
+28,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,"13,765 Ratings","1,151 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹19,990","₹30,999",35% off
+29,Whirlpool,235 L,Double Door,,2 Star,no,4.3,"6,447 Ratings",553 Reviews,Reciprocating Compressor,yes,1 Year, 9 ,"₹21,990","₹30,360",27% off
+30,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Normal Compressor,,, 10 ,"₹12,790","₹17,000",24% off
+31,Whirlpool,184 L,Single Door, Direct Cool,4 Star,no,4.3,"15,637 Ratings","1,110 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹15,790","₹20,950",24% off
+32,Godrej,183 L,Single Door, Direct Cool,2 Star,no,4.3,"7,898 Ratings",461 Reviews,Fixed Speed Compressor,yes,1 Year, 10 ,"₹12,990","₹16,990",23% off
+33,Godrej,180 L,Single Door, Direct Cool,2 Star,no,4.3,"8,658 Ratings",460 Reviews,Reciprocatory Compressor,yes,1 Year, 10 ,"₹12,390","₹16,790",26% off
+34,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"14,017 Ratings",765 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹11,790","₹15,400",23% off
+35,Godrej,234 L,Single Door, Direct Cool,3 Star,no,4.3,"4,434 Ratings",382 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹18,490","₹26,990",31% off
+36,Whirlpool,215 L,Triple Door,,,no,4.3,"25,002 Ratings","2,543 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹23,990","₹30,150",20% off
+37,CANDY,328 L,Double Door,,3 Star,no,4.3,484 Ratings,85 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹24,990","₹40,490",38% off
+38,Whirlpool,184 L,Single Door, Direct Cool,3 Star,no,4.3,"14,017 Ratings",765 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹12,990","₹17,200",24% off
+39,Godrej,183 L,Single Door, Direct Cool,2 Star,no,4.3,"8,658 Ratings",460 Reviews,Reciprocatory Compressor,yes,1 Year, 10 ,"₹12,390","₹17,290",28% off
+40,Haier,240 L,Double Door,,2 Star,no,4.3,"3,795 Ratings",339 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹21,490","₹29,990",28% off
+41,SAMSUNG,183 L,Single Door, Direct Cool,3 Star,yes,4.4,"15,628 Ratings","1,213 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹15,290","₹18,999",19% off
+42,Godrej,180 L,Single Door, Direct Cool,4 Star,no,4.4,"7,832 Ratings",493 Reviews,,yes,1 Year, 10 ,"₹14,990","₹21,990",31% off
+43,SAMSUNG,223 L,Single Door, Direct Cool,3 Star,yes,4.3,"3,581 Ratings",287 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹18,190","₹23,999",24% off
+44,SAMSUNG,236 L,Double Door,,2 Star,yes,4.3,"16,551 Ratings","1,083 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹22,990","₹30,990",25% off
+45,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.4,"8,316 Ratings",622 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹15,690","₹21,999",28% off
+46,MarQ,183 L,Single Door, Direct Cool,2 Star,no,4.2,"5,006 Ratings",543 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹11,890","₹19,990",40% off
+47,Whirlpool,192 L,Single Door, Direct Cool,5 Star,no,4.3,"15,637 Ratings","1,110 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹16,990","₹22,800",25% off
+48,Godrej,183 L,Single Door, Direct Cool,3 Star,no,4.3,"7,898 Ratings",461 Reviews,Fixed Speed Compressor,yes,1 Year, 10 ,"₹13,990","₹21,590",35% off
+49,LG,185 L,Single Door, Direct Cool,4 Star,yes,4.4,"9,160 Ratings",517 Reviews,Smart Inverter Compressor,yes,1 Year, 10 ,"₹16,490","₹20,499",19% off
+50,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹16,390","₹22,999",28% off
+51,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Normal Compressor,,, 10 ,"₹12,790","₹17,000",24% off
+52,Haier,602 L,,,,no,4.5,"1,872 Ratings",198 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹61,990","₹1,09,390",43% off
+53,Voltas,183 L,Single Door, Direct Cool,5 Star,no,4.4,"5,456 Ratings",446 Reviews,Reciprocating Compressor,yes,1 Years, 10 ,"₹15,490","₹28,490",45% off
+54,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"3,566 Ratings",237 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹9,990","₹13,490",25% off
+55,Voltas,183 L,Single Door, Direct Cool,4 Star,no,4.4,"5,456 Ratings",446 Reviews,Reciprocating Compressor,yes,1 Years, 10 ,"₹14,490","₹25,890",44% off
+56,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"12,919 Ratings",878 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹17,990","₹21,999",18% off
+57,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹17,490","₹22,999",23% off
+58,LG,185 L,Single Door, Direct Cool,5 Star,yes,4.5,"7,091 Ratings",497 Reviews,Smart Inverter Compressor,yes,1 Year, 10 ,"₹17,490","₹22,799",23% off
+59,Voltas,183 L,Single Door, Direct Cool,4 Star,no,4.4,"5,456 Ratings",446 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹14,990","₹25,890",42% off
+60,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,"13,765 Ratings","1,151 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹19,990","₹30,999",35% off
+61,Whirlpool,215 L,Triple Door,,,no,4.3,"25,002 Ratings","2,543 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹23,990","₹30,150",20% off
+62,LG,242 L,Double Door,,2 Star,yes,4.3,"1,396 Ratings",81 Reviews,Smart Inverter Compressor,yes,1 Year, 10 ,"₹23,990","₹31,199",23% off
+63,SAMSUNG,322 L,Double Door,,3 Star,no,4.3,"8,659 Ratings",614 Reviews,Digital Inverter Compressor,yes,1 Year, 20 ,"₹37,990","₹60,990",37% off
+64,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"5,271 Ratings",346 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹12,590","₹25,990",51% off
+65,Whirlpool,215 L,Triple Door,,,no,4.3,"25,002 Ratings","2,543 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹23,990","₹32,150",25% off
+66,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Normal Compressor,,, 10 ,"₹12,790","₹17,000",24% off
+67,Whirlpool,184 L,Single Door, Direct Cool,5 Star,no,4.3,"15,637 Ratings","1,110 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹16,490","₹21,450",23% off
+68,realme,253 L,Double Door,,2 Star,no,4.4,208 Ratings,31 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹19,990","₹38,990",48% off
+69,LG,264 L,Double Door,,2 Star,yes,4.4,"21,493 Ratings","1,724 Reviews",,yes,1 Year, 10 ,"₹26,990","₹38,399",29% off
+70,CANDY,240 L,Double Door,,2 Star,no,4.3,"2,836 Ratings",310 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹18,990","₹26,490",28% off
+71,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.4,"8,316 Ratings",622 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹15,690","₹21,999",28% off
+72,Haier,190 L,Single Door, Direct Cool,5 Star,no,4.4,"16,183 Ratings","1,243 Reviews",Normal Compressor,yes,2 Years, 10 ,,,
+73,LG,185 L,Single Door, Direct Cool,5 Star,yes,4.5,"15,862 Ratings","1,018 Reviews",Smart Inverter Compressor,yes,1 Year, 10 ,"₹17,490","₹22,799",23% off
+74,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹16,390","₹22,999",28% off
+75,LG,185 L,Single Door, Direct Cool,4 Star,yes,4.4,"9,160 Ratings",517 Reviews,Smart Inverter Compressor,yes,1 Year, 10 ,"₹16,490","₹20,499",19% off
+76,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Normal Compressor,,, 10 ,"₹12,790","₹17,000",24% off
+77,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"5,271 Ratings",346 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹12,590","₹25,990",51% off
+78,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"3,566 Ratings",237 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹9,990","₹13,490",25% off
+79,LG,185 L,Single Door, Direct Cool,5 Star,no,4.5,"15,862 Ratings","1,018 Reviews",Smart Inverter Compressor,yes,1 Year, 10 ,"₹17,490","₹23,899",26% off
+80,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"12,919 Ratings",878 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹17,990","₹21,999",18% off
+81,CANDY,240 L,Double Door,,2 Star,no,4.3,"2,836 Ratings",310 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹18,990","₹26,490",28% off
+82,Voltas,228 L,Double Door,,3 Star,no,4.1,"1,818 Ratings",149 Reviews,,yes,1 Year, 10 ,"₹22,390","₹39,490",43% off
+83,Haier,190 L,Single Door, Direct Cool,5 Star,no,4.4,"16,183 Ratings","1,243 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹16,890","₹26,590",36% off
+84,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹17,490","₹22,999",23% off
+85,Haier,190 L,Single Door, Direct Cool,5 Star,no,4.4,"16,183 Ratings","1,243 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹15,990","₹22,490",28% off
+86,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,"13,765 Ratings","1,151 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹19,990","₹30,999",35% off
+87,CANDY,602 L,,,,no,4.6,550 Ratings,82 Reviews,Inverter Compressor,,, 10 ,"₹49,990","₹69,490",28% off
+88,Voltas,183 L,Single Door, Direct Cool,3 Star,no,4.3,"5,271 Ratings",346 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹12,790","₹26,490",51% off
+89,LG,240 L,Double Door,,3 Star,yes,4.4,"21,493 Ratings","1,724 Reviews",,yes,1 Year, 10 ,"₹26,490","₹37,099",28% off
+90,Whirlpool,215 L,Triple Door,,,no,4.3,"25,002 Ratings","2,543 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹23,990","₹30,150",20% off
+91,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"5,271 Ratings",346 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹11,690","₹24,990",53% off
+92,Godrej,223 L,Double Door,,2 Star,no,4.2,"3,761 Ratings",267 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹20,490","₹31,590",35% off
+93,Haier,190 L,Single Door, Direct Cool,2 Star,no,4.3,"7,737 Ratings",550 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹11,990","₹18,190",34% off
+94,Godrej,183 L,Single Door, Direct Cool,3 Star,no,4.3,"7,898 Ratings",461 Reviews,Fixed Speed Compressor,yes,1 Year, 10 ,"₹13,990","₹21,590",35% off
+95,Whirlpool,240 L,Triple Door,,,no,4.3,"25,002 Ratings","2,543 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹26,190","₹30,800",14% off
+96,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹16,390","₹22,999",28% off
+97,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Normal Compressor,,, 10 ,"₹12,790","₹17,000",24% off
+98,Godrej,272 L,Double Door,,3 Star,no,4.2,"3,761 Ratings",267 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹27,490","₹35,000",21% off
+99,realme,233 L,Double Door,,3 Star,no,4.4,208 Ratings,31 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹20,490","₹36,990",44% off
+100,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"3,566 Ratings",237 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹9,990","₹13,490",25% off
+101,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"5,271 Ratings",346 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹12,590","₹25,990",51% off
+102,LG,272 L,Double Door,,3 Star,no,4.2,594 Ratings,46 Reviews,Smart Inverter Compressor,yes,1 Year, 10 ,"₹29,990","₹42,899",30% off
+103,Godrej,180 L,Single Door, Direct Cool,4 Star,no,4.4,"7,832 Ratings",493 Reviews,,yes,1 Year, 10 ,"₹14,490","₹18,990",23% off
+104,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"12,919 Ratings",878 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹17,990","₹21,999",18% off
+105,LG,242 L,Double Door,,3 Star,yes,4.4,"21,493 Ratings","1,724 Reviews",,yes,1 Year, 10 ,"₹25,990","₹37,099",29% off
+106,CANDY,240 L,Double Door,,2 Star,no,4.3,"2,836 Ratings",310 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹18,990","₹26,490",28% off
+107,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹17,490","₹22,999",23% off
+108,Lloyd,188 L,Single Door, Direct Cool,5 Star,no,4.4,566 Ratings,38 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹15,290","₹16,990",10% off
+109,IFB,206 L,Single Door, Direct Cool,4 Star,no,4.6,41 Ratings,4 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹19,490","₹28,250",31% off
+110,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,"13,765 Ratings","1,151 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹19,990","₹30,999",35% off
+111,CANDY,602 L,,,,no,4.6,550 Ratings,82 Reviews,Inverter Compressor,,, 10 ,"₹49,990","₹69,490",28% off
+112,Whirlpool,207 L,Single Door, Direct Cool,5 Star,no,4.3,"15,637 Ratings","1,110 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹19,690","₹25,050",21% off
+113,Voltas,472 L,,,,no,4.3,"1,795 Ratings",149 Reviews,,yes,2 Years, 12 ,"₹48,990","₹84,490",42% off
+114,Whirlpool,215 L,Triple Door,,,no,4.3,"25,002 Ratings","2,543 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹23,990","₹30,150",20% off
+115,Godrej,180 L,Single Door, Direct Cool,4 Star,no,4.4,"7,832 Ratings",493 Reviews,,yes,1 Year, 10 ,"₹14,990","₹17,990",16% off
+116,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"5,271 Ratings",346 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹11,690","₹24,990",53% off
+117,Godrej,183 L,Single Door, Direct Cool,3 Star,no,4.3,"7,898 Ratings",461 Reviews,Fixed Speed Compressor,yes,1 Year, 10 ,"₹13,990","₹21,590",35% off
+118,Lloyd,178 L,Single Door, Direct Cool,2 Star,no,4.6,51 Ratings,2 Reviews,,yes,1 Year, 10 ,"₹11,990","₹17,990",33% off
+119,Haier,215 L,Single Door, Direct Cool,5 Star,no,4.4,"16,183 Ratings","1,243 Reviews",Normal Compressor,yes,2 Years, 10 ,"₹18,990","₹28,090",32% off
+120,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹16,390","₹22,999",28% off
+121,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Normal Compressor,,, 10 ,"₹12,790","₹17,000",24% off
+122,Lloyd,188 L,Single Door, Direct Cool,5 Star,no,4.4,566 Ratings,38 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹15,290","₹16,990",10% off
+123,Godrej,180 L,Single Door, Direct Cool,4 Star,no,4.4,"7,832 Ratings",493 Reviews,,yes,1 Year, 10 ,"₹14,990","₹17,990",16% off
+124,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"3,566 Ratings",237 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹9,990","₹13,490",25% off
+125,Midea,510 L,,,,no,4.1,"1,073 Ratings",164 Reviews,,yes,1 Year, 10 ,"₹44,990","₹79,990",43% off
+126,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"5,271 Ratings",346 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹12,590","₹25,990",51% off
+127,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"12,919 Ratings",878 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹17,990","₹21,999",18% off
+128,Haier,190 L,Single Door, Direct Cool,2 Star,no,4.3,"7,737 Ratings",550 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹11,990","₹18,190",34% off
+129,Whirlpool,184 L,Single Door, Direct Cool,5 Star,no,4.3,"15,637 Ratings","1,110 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹16,490","₹21,450",23% off
+130,CANDY,240 L,Double Door,,2 Star,no,4.3,"2,836 Ratings",310 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹18,990","₹26,490",28% off
+131,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹17,490","₹22,999",23% off
+132,Whirlpool,270 L,Triple Door,,,no,4.3,"25,002 Ratings","2,543 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹28,490","₹38,300",25% off
+133,Godrej,30 L,,,,no,4,"6,126 Ratings",558 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹7,790","₹8,250",5% off
+134,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,"13,765 Ratings","1,151 Reviews",Smart Inverter Compressor,yes,1 Year, 10 ,"₹19,990","₹30,999",35% off
+135,LG,185 L,Single Door, Direct Cool,4 Star,yes,4.5,303 Ratings,8 Reviews,Inverter Compressor,,, 10 ,"₹15,790","₹21,399",26% off
+136,CANDY,602 L,,,,no,4.6,550 Ratings,82 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹49,990","₹69,490",28% off
+137,Whirlpool,215 L,Triple Door,,,no,4.3,"25,002 Ratings","2,543 Reviews",Fixed Speed Compressor,yes,1 Year, 10 ,"₹23,990","₹30,150",20% off
+138,Godrej,180 L,Single Door, Direct Cool,5 Star,no,4.3,151 Ratings,13 Reviews,Digital Inverter Compressor,yes,1 Year, 20 ,"₹15,990","₹18,990",15% off
+139,SAMSUNG,419 L,Double Door,,3 Star,no,4.3,"8,659 Ratings",614 Reviews,Fixed Speed Compressor,yes,1 Year, 10 ,"₹51,990","₹71,990",27% off
+140,Godrej,183 L,Single Door, Direct Cool,3 Star,no,4.3,"7,898 Ratings",461 Reviews,Normal Compressor,,, 10 ,"₹13,990","₹21,590",35% off
+141,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Digital Inverter Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+142,SAMSUNG,301 L,Double Door,,3 Star,no,4.3,"8,659 Ratings",614 Reviews,,yes,2 Years, 12 ,"₹34,990","₹53,990",35% off
+143,Voltas,634 L,,,,yes,4.3,"1,795 Ratings",149 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹63,990","₹1,14,990",44% off
+144,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",,yes,1 Year, 10 ,"₹16,390","₹22,999",28% off
+145,Godrej,183 L,Single Door, Direct Cool,3 Star,no,4,196 Ratings,7 Reviews,Normal Compressor,,, 10 ,"₹13,290","₹19,490",31% off
+146,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+147,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"3,566 Ratings",237 Reviews,Digital Inverter Compressor,yes,1 Year, 10 ,"₹9,990","₹13,490",25% off
+148,SAMSUNG,301 L,Double Door,,3 Star,no,4.3,"8,659 Ratings",614 Reviews,Fixed Speed Compressor,yes,1 Year, 10 ,"₹34,990","₹53,990",35% off
+149,Godrej,180 L,Single Door, Direct Cool,5 Star,no,4.3,151 Ratings,13 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹15,990","₹18,990",15% off
+150,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"5,271 Ratings",346 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹12,590","₹25,990",51% off
+151,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"12,919 Ratings",878 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹17,990","₹21,999",18% off
+152,CANDY,240 L,Double Door,,2 Star,no,4.3,"2,836 Ratings",310 Reviews,Digital Inverter Compressor,yes,1 Year, 20 ,"₹18,990","₹26,490",28% off
+153,SAMSUNG,256 L,Double Door,,3 Star,yes,4.3,"4,310 Ratings",283 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹28,590","₹42,990",33% off
+154,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Reciprocatory Compressor,yes,1 Year, 10 ,"₹17,490","₹22,999",23% off
+155,CANDY,268 L,Double Door,,2 Star,no,4.4,363 Ratings,46 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹21,990","₹31,990",31% off
+156,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,"13,765 Ratings","1,151 Reviews",Inverter Compressor,,, 10 ,"₹19,990","₹30,999",35% off
+157,CANDY,602 L,,,,no,4.6,550 Ratings,82 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹49,990","₹69,490",28% off
+158,Godrej,272 L,Double Door,,3 Star,no,4.2,"3,761 Ratings",267 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹27,490","₹35,000",21% off
+159,Whirlpool,235 L,Triple Door,,,no,4.3,"25,002 Ratings","2,543 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹27,180","₹38,150",28% off
+160,Whirlpool,215 L,Triple Door,,,no,4.3,"25,002 Ratings","2,543 Reviews",Reciprocating Compressor,yes,1 Year, 10 ,"₹23,990","₹30,150",20% off
+161,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"5,271 Ratings",346 Reviews,Digital Inverter Compressor,yes,1 Year, 20 ,"₹11,690","₹24,990",53% off
+162,SAMSUNG,419 L,Double Door,,3 Star,no,4.3,"8,659 Ratings",614 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹51,990","₹71,990",27% off
+163,Haier,190 L,Single Door, Direct Cool,2 Star,no,4.3,"7,737 Ratings",550 Reviews,Fixed Speed Compressor,yes,1 Year, 10 ,"₹13,490","₹20,790",35% off
+164,Godrej,183 L,Single Door, Direct Cool,3 Star,no,4.3,"7,898 Ratings",461 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹13,990","₹21,590",35% off
+165,Voltas,183 L,Single Door, Direct Cool,3 Star,no,4.3,"5,271 Ratings",346 Reviews,Normal Compressor,,, 10 ,"₹13,490","₹25,190",46% off
+166,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹12,790","₹17,000",24% off
+167,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.4,"8,316 Ratings",622 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹15,690","₹21,999",28% off
+168,SAMSUNG,301 L,Double Door,,2 Star,yes,4.3,"4,206 Ratings",336 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹34,390","₹47,990",28% off
+169,SAMSUNG,363 L,Double Door,,3 Star,yes,4.3,"8,659 Ratings",614 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹43,490","₹65,990",34% off
+170,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Normal Compressor,,, 10 ,"₹16,390","₹22,999",28% off
+171,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+172,Midea,233 L,Double Door,,3 Star,no,4.1,337 Ratings,45 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹20,990","₹33,990",38% off
+173,Whirlpool,184 L,Single Door, Direct Cool,4 Star,no,4.3,"15,637 Ratings","1,110 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹15,790","₹20,950",24% off
+174,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"3,566 Ratings",237 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹9,990","₹13,490",25% off
+175,Whirlpool,300 L,Triple Door,,,no,4.3,"6,164 Ratings",700 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹30,970","₹43,400",28% off
+176,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"5,271 Ratings",346 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹12,590","₹25,990",51% off
+177,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"12,919 Ratings",878 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹17,990","₹21,999",18% off
+178,IFB,187 L,Single Door, Direct Cool,2 Star,no,4.4,423 Ratings,36 Reviews,Normal Compressor,,, 9 ,"₹13,990","₹17,650",20% off
+179,Whirlpool,184 L,Single Door, Direct Cool,4 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹15,290","₹19,600",21% off
+180,CANDY,240 L,Double Door,,2 Star,no,4.3,"2,836 Ratings",310 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹18,990","₹26,490",28% off
+181,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",,yes,1 Year, 10 ,"₹17,490","₹22,999",23% off
+182,LG,264 L,Double Door,,2 Star,yes,4.4,"21,493 Ratings","1,724 Reviews",,yes,1 Year, 10 ,"₹26,990","₹38,399",29% off
+183,Voltas,228 L,Double Door,,3 Star,no,4.1,"1,818 Ratings",149 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹22,990","₹40,490",43% off
+184,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,"13,765 Ratings","1,151 Reviews",Reciprocating Compressor,yes,1 Year, 10 ,"₹19,990","₹30,999",35% off
+185,MarQ,183 L,Single Door, Direct Cool,2 Star,no,4.2,"5,006 Ratings",543 Reviews,Inverter Compressor,,, 10 ,"₹11,890","₹19,990",40% off
+186,CANDY,602 L,,,,no,4.6,550 Ratings,82 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹49,990","₹69,490",28% off
+187,Whirlpool,215 L,Triple Door,,,no,4.3,"25,002 Ratings","2,543 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹23,990","₹30,150",20% off
+188,Haier,240 L,Double Door,,3 Star,no,4.3,"2,597 Ratings",250 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹23,990","₹34,990",31% off
+189,Whirlpool,260 L,Triple Door,,,no,4.3,"15,487 Ratings","1,803 Reviews",Reciprocating Compressor,yes,1 Year, 10 ,"₹28,290","₹37,700",24% off
+190,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"5,271 Ratings",346 Reviews,Fixed Speed Compressor,yes,1 Year, 10 ,"₹11,690","₹24,990",53% off
+191,Godrej,183 L,Single Door, Direct Cool,3 Star,no,4.3,"7,898 Ratings",461 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹13,990","₹21,590",35% off
+192,Whirlpool,325 L,Double Door,,3 Star,no,4,"1,056 Ratings",72 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹33,990","₹49,950",31% off
+193,Haier,328 L,Double Door,,3 Star,no,4.3,"2,597 Ratings",250 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹32,990","₹47,990",31% off
+194,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Reciprocating Compressor,yes,1 Year, 10 ,"₹16,390","₹22,999",28% off
+195,MarQ,183 L,Single Door, Direct Cool,2 Star,no,4.2,"5,006 Ratings",543 Reviews,Normal Compressor,,, 10 ,"₹11,890","₹19,990",40% off
+196,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+197,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"3,566 Ratings",237 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹9,990","₹13,490",25% off
+198,Whirlpool,300 L,Triple Door,,,no,4.3,"6,164 Ratings",700 Reviews,Reciprocating Compressor,yes,3 Years, 5 ,"₹30,970","₹43,400",28% off
+199,Admiral,165 L,Single Door, Direct Cool,2 Star,no,4.1,233 Ratings,21 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹9,290","₹18,499",49% off
+200,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"5,271 Ratings",346 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹12,590","₹25,990",51% off
+201,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"12,919 Ratings",878 Reviews,Reciprocating Compressor,yes,3 Years, 5 ,"₹17,990","₹21,999",18% off
+202,Admiral,165 L,Single Door, Direct Cool,2 Star,no,4.1,233 Ratings,21 Reviews,Smart Inverter Compressor,yes,1 Year, 10 ,"₹8,790","₹17,999",51% off
+203,LG,185 L,Single Door, Direct Cool,4 Star,yes,4.4,"48,159 Ratings","4,392 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹16,690","₹21,999",24% off
+204,CANDY,240 L,Double Door,,2 Star,no,4.3,"2,836 Ratings",310 Reviews,Inverter Compressor,yes,2 Years, 10 ,"₹18,990","₹26,490",28% off
+205,Godrej,244 L,Double Door,,3 Star,no,4.1,563 Ratings,56 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹24,990","₹35,990",30% off
+206,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹17,490","₹22,999",23% off
+207,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,"13,765 Ratings","1,151 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹19,990","₹30,999",35% off
+208,MarQ,208 L,Single Door, Direct Cool,3 Star,no,4.1,198 Ratings,23 Reviews,Smart Inverter Compressor,yes,1 Year, 10 ,"₹14,490","₹24,990",42% off
+209,LG,185 L,Single Door, Direct Cool,4 Star,yes,4.5,"1,610 Ratings",125 Reviews,Inverter Compressor,,, 10 ,"₹16,490","₹21,999",25% off
+210,CANDY,602 L,,,,no,4.6,550 Ratings,82 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹49,990","₹69,490",28% off
+211,Whirlpool,215 L,Triple Door,,,no,4.3,"25,002 Ratings","2,543 Reviews",Digital Inverter Compressor,yes,1 Year, 20 ,"₹23,990","₹30,150",20% off
+212,SAMSUNG,291 L,Double Door,,2 Star,no,4.3,621 Ratings,50 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹31,990","₹49,990",36% off
+213,LG,242 L,Double Door,,2 Star,yes,4.6,64 Ratings,3 Reviews,Fixed Speed Compressor,yes,1 Year, 10 ,"₹24,990","₹28,000",10% off
+214,Godrej,183 L,Single Door, Direct Cool,3 Star,no,4.3,"7,898 Ratings",461 Reviews,Inverter Compressor,yes,2 Years, 10 ,"₹13,990","₹21,590",35% off
+215,Godrej,244 L,Double Door,,2 Star,no,4.3,300 Ratings,25 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹23,990","₹34,990",31% off
+216,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Normal Compressor,,, 10 ,"₹16,390","₹22,999",28% off
+217,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"19,653 Ratings","1,211 Reviews",,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+218,Voltas,228 L,Double Door,,3 Star,no,4.1,"1,818 Ratings",149 Reviews,,yes,2 Years, 12 ,"₹22,390","₹39,490",43% off
+219,Voltas,340 L,Double Door,,2 Star,no,4.1,"1,818 Ratings",149 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹30,990","₹45,290",31% off
+220,Whirlpool,184 L,Single Door, Direct Cool,5 Star,no,4.3,"15,637 Ratings","1,110 Reviews",Reciprocating Compressor,yes,1 Year, 9 ,"₹16,490","₹21,450",23% off
+221,Whirlpool,192 L,Single Door, Direct Cool,4 Star,no,4.3,"15,637 Ratings","1,110 Reviews",Inverter Compressor,yes,2 Years, 10 ,"₹15,490","₹21,750",28% off
+222,Godrej,244 L,Double Door,,2 Star,no,4.3,300 Ratings,25 Reviews,Digital Inverter Compressor,yes,1 Year, 20 ,"₹23,990","₹34,990",31% off
+223,SAMSUNG,291 L,Double Door,,2 Star,no,4.3,621 Ratings,50 Reviews,Reciprocating Compressor,yes,1 Year, 9 ,"₹31,990","₹49,990",36% off
+224,Whirlpool,192 L,Single Door, Direct Cool,4 Star,no,,233 Ratings,21 Reviews,Reciprocating Compressor,yes,3 Years, 5 ,"₹14,990","₹20,500",26% off
+225,Admiral,165 L,Single Door, Direct Cool,2 Star,no,4.1,"3,566 Ratings",237 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹8,790","₹17,999",51% off
+226,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"12,919 Ratings",878 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹9,990","₹13,490",25% off
+227,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"12,902 Ratings",940 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹17,990","₹21,999",18% off
+228,SAMSUNG,183 L,Single Door, Direct Cool,2 Star,yes,4.4,"5,456 Ratings",446 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹13,990","₹17,999",22% off
+229,Voltas,183 L,Single Door, Direct Cool,5 Star,no,4.4,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹15,790","₹29,290",46% off
+230,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"13,765 Ratings","1,151 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹17,490","₹22,999",23% off
+231,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,179 Ratings,18 Reviews,,yes,1 Year, 10 ,"₹19,990","₹30,999",35% off
+232,Voltas,248 L,Double Door,,3 Star,no,4.4,"1,818 Ratings",149 Reviews,,yes,2 Years, 12 ,"₹23,990","₹43,990",45% off
+233,Voltas,432 L,Double Door,,2 Star,no,4.1,"25,002 Ratings","2,543 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹37,990","₹59,990",36% off
+234,Whirlpool,215 L,Triple Door,,,no,4.3,"2,159 Ratings",142 Reviews,Digital Inverter Compressor,yes,1 Year, 20 ,"₹23,990","₹30,150",20% off
+235,SAMSUNG,653 L,,,5 Star,no,4.3,"5,271 Ratings",346 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹99,990","₹1,50,000",33% off
+236,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Normal Compressor,,, 10 ,"₹12,590","₹25,990",51% off
+237,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"16,183 Ratings","1,243 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+238,Haier,190 L,Single Door, Direct Cool,5 Star,no,4.4,"5,456 Ratings",446 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹16,890","₹26,590",36% off
+239,Voltas,183 L,Single Door, Direct Cool,4 Star,no,4.4,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹14,990","₹25,890",42% off
+240,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"19,653 Ratings","1,211 Reviews",Normal Compressor,,, 10 ,"₹16,390","₹22,999",28% off
+241,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,,2 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+242,Panasonic,257 L,Double Door,,3 Star,no,4.5,"5,271 Ratings",346 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹27,790","₹35,500",21% off
+243,Voltas,183 L,Single Door, Direct Cool,4 Star,no,4.3,"3,566 Ratings",237 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹14,690","₹27,890",47% off
+244,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,54 Ratings,3 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹9,990","₹13,490",25% off
+245,Godrej,202 L,Single Door, Direct Cool,5 Star,no,4.2,"12,919 Ratings",878 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹18,290","₹27,490",33% off
+246,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"13,765 Ratings","1,151 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹17,990","₹21,999",18% off
+247,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,"65,317 Ratings","4,293 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹19,990","₹30,999",35% off
+248,Whirlpool,192 L,Single Door, Direct Cool,4 Star,no,,"25,002 Ratings","2,543 Reviews",,,,,"₹17,990","₹23,100",22% off
+249,Rockwell,45 L,Single Door, Direct Cool,2 Star,no,,"1,133 Ratings",88 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹8,190","₹18,515",55% off
+250,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,46 Ratings,5 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹17,490","₹22,999",23% off
+251,Whirlpool,215 L,Triple Door,,,no,4.3,"5,271 Ratings",346 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹23,990","₹30,150",20% off
+252,Whirlpool,235 L,Double Door,,3 Star,no,4,581 Ratings,27 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹30,200","₹34,800",13% off
+253,Godrej,202 L,Single Door, Direct Cool,4 Star,no,4.5,"19,653 Ratings","1,211 Reviews",Reciprocating Compressor,yes,1 Year, 10 ,"₹16,990","₹25,590",33% off
+254,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"7,898 Ratings",461 Reviews,Smart Inverter Compressor,yes,1 Year, 10 ,"₹12,590","₹25,990",51% off
+255,LG,185 L,Single Door, Direct Cool,4 Star,yes,4.5,56 Ratings,1 Reviews,Normal Compressor,,, 10 ,"₹15,990","₹21,699",26% off
+256,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"1,777 Ratings",217 Reviews,Fixed Speed Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+257,Godrej,183 L,Single Door, Direct Cool,3 Star,no,4.3,"15,637 Ratings","1,110 Reviews",Reciprocating Compressor,yes,1 Year, 10 ,"₹13,990","₹21,590",35% off
+258,IFB,206 L,Single Door, Direct Cool,4 Star,no,4.4,"2,836 Ratings",310 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹18,490","₹26,400",29% off
+259,CANDY,190 L,Single Door, Direct Cool,5 Star,no,4.3,186 Ratings,9 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹14,690","₹19,490",24% off
+260,Whirlpool,184 L,Single Door, Direct Cool,5 Star,no,4.3,"65,317 Ratings","4,293 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹16,490","₹21,450",23% off
+261,CANDY,240 L,Double Door,,2 Star,no,4.3,376 Ratings,28 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹18,990","₹26,490",28% off
+262,Whirlpool,308 L,Double Door,,3 Star,no,4,"19,653 Ratings","1,211 Reviews",Reciprocating Compressor,yes,1 Year, 10 ,"₹31,990","₹44,490",28% off
+263,IFB,241 L,Double Door,,3 Star,no,,"3,566 Ratings",237 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹24,990","₹37,990",34% off
+264,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"3,795 Ratings",339 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹16,390","₹22,999",28% off
+265,IFB,187 L,Single Door, Direct Cool,2 Star,no,4.4,"1,398 Ratings",97 Reviews,Normal Compressor,,, 10 ,"₹13,490","₹16,750",19% off
+266,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"5,271 Ratings",346 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+267,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"12,919 Ratings",878 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹9,990","₹13,490",25% off
+268,Haier,268 L,Double Door,,2 Star,no,4.3,"1,816 Ratings",244 Reviews,Fixed Speed Compressor,yes,1 Year, 10 ,"₹25,990","₹36,990",29% off
+269,Godrej,180 L,Single Door, Direct Cool,5 Star,no,4.4,113 Ratings,8 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹15,990","₹19,990",20% off
+270,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"2,836 Ratings",310 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹12,590","₹25,990",51% off
+271,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"5,006 Ratings",543 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹17,990","₹21,999",18% off
+272,realme,205 L,Single Door, Direct Cool,2 Star,no,4.2,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 Year, 20 ,"₹13,990","₹24,990",44% off
+273,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,no,4.3,"13,765 Ratings","1,151 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹18,100","₹23,999",24% off
+274,CANDY,240 L,Double Door,,2 Star,no,4.3,"16,183 Ratings","1,243 Reviews",Reciprocating Compressor,yes,1 Year, 10 ,"₹18,990","₹26,490",28% off
+275,MarQ,183 L,Single Door, Direct Cool,3 Star,no,4.2,"5,324 Ratings",496 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹12,990","₹21,990",40% off
+276,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,550 Ratings,82 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹17,490","₹22,999",23% off
+277,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,"25,002 Ratings","2,543 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹19,990","₹30,999",35% off
+278,Haier,190 L,Single Door, Direct Cool,5 Star,no,4.4,"5,271 Ratings",346 Reviews,,yes,1 Year, 9 ,"₹18,290","₹27,490",33% off
+279,Lloyd,188 L,Single Door, Direct Cool,3 Star,no,4.3,"6,447 Ratings",553 Reviews,Inverter Compressor,,, 10 ,"₹13,690","₹20,090",31% off
+280,CANDY,602 L,,,,no,4.6,"5,271 Ratings",346 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹49,990","₹69,490",28% off
+281,Whirlpool,215 L,Triple Door,,,no,4.3,678 Ratings,52 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹23,990","₹30,150",20% off
+282,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Reciprocating Compressor,yes,1 Year, 9 ,"₹11,690","₹25,190",53% off
+283,Whirlpool,231 L,Double Door,,2 Star,no,4.3,"7,898 Ratings",461 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹23,490","₹33,700",30% off
+284,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,,0 Reviews,Inverter Compressor,yes,2 Years, 10 ,"₹11,690","₹24,990",53% off
+285,Godrej,272 L,Double Door,,2 Star,no,4.1,40 Ratings,2 Reviews,Normal Compressor,,, 10 ,"₹32,999","₹39,990",17% off
+286,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"65,317 Ratings","4,293 Reviews",Fixed Speed Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+287,Godrej,183 L,Single Door, Direct Cool,3 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Normal Compressor,yes,1 Year, 9 ,"₹13,990","₹21,590",35% off
+288,Whirlpool,192 L,Single Door, Direct Cool,3 Star,no,4,"2,597 Ratings",250 Reviews,Digital Inverter Compressor,yes,1 Year, 20 ,"₹16,090","₹20,750",22% off
+289,SAMSUNG,183 L,Single Door, Direct Cool,3 Star,no,3.7,48 Ratings,3 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹15,300","₹19,999",23% off
+290,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"3,566 Ratings",237 Reviews,Normal Compressor,,, 10 ,"₹16,390","₹22,999",28% off
+291,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"1,872 Ratings",198 Reviews,Normal Compressor,yes,2 Years, 10 ,"₹12,790","₹17,000",24% off
+292,Haier,358 L,Double Door,,3 Star,no,4.3,"5,271 Ratings",346 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹37,990","₹61,590",38% off
+293,Haier,300 L,Double Door,,2 Star,no,4.2,"12,919 Ratings",878 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹30,990","₹47,990",35% off
+294,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,96 Ratings,4 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹9,990","₹13,490",25% off
+295,Haier,596 L,,,,no,4.5,"1,011 Ratings",121 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹69,980","₹1,21,890",42% off
+296,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"2,836 Ratings",310 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹12,590","₹25,990",51% off
+297,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹17,990","₹21,999",18% off
+298,Whirlpool,207 L,Single Door, Direct Cool,3 Star,no,4.3,473 Ratings,66 Reviews,,yes,2 Years, 10 ,"₹16,990","₹21,800",22% off
+299,Godrej,436 L,Double Door,,2 Star,yes,4.1,391 Ratings,33 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹42,990","₹67,990",36% off
+300,CANDY,240 L,Double Door,,2 Star,no,4.3,"13,765 Ratings","1,151 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹18,990","₹26,490",28% off
+301,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"25,002 Ratings","2,543 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹17,490","₹22,999",23% off
+302,Panasonic,308 L,Double Door,,3 Star,yes,4.3,550 Ratings,82 Reviews,,yes,1 Year, 10 ,"₹29,890","₹45,500",34% off
+303,Whirlpool,265 L,Double Door,,3 Star,no,3.9,"25,002 Ratings","2,543 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹28,390","₹36,000",21% off
+304,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,32 Ratings,4 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹19,990","₹30,999",35% off
+305,Whirlpool,215 L,Triple Door,,,no,4.3,"3,795 Ratings",339 Reviews,Inverter Compressor,,, 10 ,"₹23,990","₹32,150",25% off
+306,CANDY,602 L,,,,no,4.6,"5,271 Ratings",346 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹49,990","₹69,490",28% off
+307,Whirlpool,215 L,Triple Door,,,no,4.3,"19,653 Ratings","1,211 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹23,990","₹30,150",20% off
+308,Kenstar,208 L,Single Door, Direct Cool,3 Star,no,4.3,"15,637 Ratings","1,110 Reviews",Normal Compressor,yes,1 Years, 10 ,"₹14,290","₹27,990",48% off
+309,Haier,240 L,Double Door,,2 Star,no,4.3,54 Ratings,5 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹22,790","₹31,490",27% off
+310,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"15,637 Ratings","1,110 Reviews",Normal Compressor,,, 10 ,"₹11,690","₹24,990",53% off
+311,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,15 Ratings,1 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹12,790","₹17,000",24% off
+312,Whirlpool,184 L,Single Door, Direct Cool,5 Star,no,4.3,"65,317 Ratings","4,293 Reviews",Reciprocating Compressor,yes,1 Year, 9 ,"₹16,490","₹21,450",23% off
+313,Whirlpool,192 L,Single Door, Direct Cool,4 Star,no,,"25,002 Ratings","2,543 Reviews",Digital Inverter Compressor,yes,1 Year, 20 ,"₹14,990","₹20,500",26% off
+314,SAMSUNG,236 L,Double Door,,2 Star,no,4.4,"1,568 Ratings",162 Reviews,Normal Compressor,yes,1 Year, 9 ,"₹27,000","₹35,990",24% off
+315,Whirlpool,184 L,Single Door, Direct Cool,3 Star,no,,19 Ratings,0 Reviews,Reciprocating Compressor,yes,1 Year, 9 ,"₹14,190","₹18,350",22% off
+316,Whirlpool,192 L,Single Door, Direct Cool,4 Star,no,4.3,"15,637 Ratings","1,110 Reviews",Fixed Speed Compressor,yes,1 Year, 10 ,"₹15,490","₹21,750",28% off
+317,Godrej,97 L,Single Door, Direct Cool,1 Star,no,4.4,"3,566 Ratings",237 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹11,999","₹14,500",17% off
+318,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,625 Ratings,32 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹16,390","₹22,999",28% off
+319,Whirlpool,215 L,Triple Door,,,no,4.3,"15,637 Ratings","1,110 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹23,990","₹32,150",25% off
+320,Haier,325 L,Double Door,,3 Star,no,4.3,225 Ratings,31 Reviews,,yes,1 Year, 10 ,"₹34,990","₹50,990",31% off
+321,Haier,355 L,Double Door,,3 Star,no,4.2,"3,133 Ratings",187 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹46,990","₹75,490",37% off
+322,Whirlpool,184 L,Single Door, Direct Cool,5 Star,no,4.3,"15,637 Ratings","1,110 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹16,490","₹21,450",23% off
+323,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"25,002 Ratings","2,543 Reviews",Fixed Speed Compressor,yes,1 Year, 10 ,"₹9,990","₹13,490",25% off
+324,Godrej,202 L,Single Door, Direct Cool,5 Star,no,4.5,"1,398 Ratings",97 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹18,290","₹27,490",33% off
+325,Whirlpool,236 L,Single Door, Direct Cool,4 Star,no,4.3,"15,637 Ratings","1,110 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹20,990","₹27,800",24% off
+326,CANDY,240 L,Double Door,,3 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Reciprocating Compressor,yes,1 Year, 9 ,"₹22,390","₹30,490",26% off
+327,Whirlpool,192 L,Single Door, Direct Cool,3 Star,no,4.2,11 Ratings,2 Reviews,Reciprocating Compressor,yes,1 Year, 9 ,"₹16,990","₹21,650",21% off
+328,Whirlpool,192 L,Single Door, Direct Cool,4 Star,no,4.3,"15,637 Ratings","1,110 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹15,490","₹21,750",28% off
+329,Whirlpool,300 L,Triple Door,,,no,4.3,"1,872 Ratings",198 Reviews,Fixed Speed Compressor,yes,1 Year, 10 ,"₹32,990","₹36,700",10% off
+330,Godrej,180 L,Single Door, Direct Cool,5 Star,no,4.4,225 Ratings,31 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹15,990","₹19,990",20% off
+331,Whirlpool,207 L,Single Door, Direct Cool,5 Star,no,4.3,"65,317 Ratings","4,293 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹18,790","₹25,050",24% off
+332,Whirlpool,192 L,Single Door, Direct Cool,4 Star,no,,10 Ratings,1 Reviews,Normal Compressor,,, 10 ,"₹17,990","₹23,100",22% off
+333,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"19,653 Ratings","1,211 Reviews",,yes,, 8 ,"₹12,790","₹17,000",24% off
+334,Liebherr,240 L,Double Door,,2 Star,no,4.5,"3,566 Ratings",237 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹22,990","₹42,170",45% off
+335,Whirlpool,192 L,Single Door, Direct Cool,4 Star,no,4.3,29 Ratings,1 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹17,740","₹22,250",20% off
+336,Haier,596 L,,,,no,4.5,190 Ratings,25 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹59,990","₹98,890",39% off
+337,CANDY,240 L,Double Door,,3 Star,no,4.3,"12,919 Ratings",878 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹22,390","₹30,490",26% off
+338,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"13,765 Ratings","1,151 Reviews",,yes,10 Years, 1 ,"₹16,390","₹22,999",28% off
+339,Godrej,233 L,Double Door,,2 Star,no,4,,1 Reviews,Normal Compressor,,, 10 ,"₹22,790","₹32,000",28% off
+340,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"13,916 Ratings","1,411 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+341,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"65,317 Ratings","4,293 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹9,990","₹13,490",25% off
+342,Haier,345 L,Double Door,,3 Star,no,4.3,"25,002 Ratings","2,543 Reviews",,yes,1 Year, 20 ,"₹34,900","₹68,100",48% off
+343,Liebherr,191 L,Single Door, Direct Cool,4 Star,no,4.5,"5,271 Ratings",346 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹17,090","₹23,390",26% off
+344,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"15,637 Ratings","1,110 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹17,990","₹21,999",18% off
+345,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,,1 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹19,990","₹30,999",35% off
+346,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,3.8,"19,653 Ratings","1,211 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹13,849","₹25,550",45% off
+347,Whirlpool,190 L,Single Door, Direct Cool,4 Star,no,4.4,"7,898 Ratings",461 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹17,790","₹19,700",9% off
+348,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,303 Ratings,25 Reviews,,yes,1 Year, 20 ,"₹17,490","₹22,999",23% off
+349,SAMSUNG,236 L,Double Door,,2 Star,no,,,0 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹27,200","₹32,990",17% off
+350,Whirlpool,215 L,Triple Door,,,no,4.3,"15,637 Ratings","1,110 Reviews",Reciprocating Compressor,yes,1 Year, 10 ,"₹23,990","₹30,150",20% off
+351,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,609 Ratings,55 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹12,590","₹25,990",51% off
+352,Whirlpool,184 L,Single Door, Direct Cool,4 Star,no,4.3,"65,317 Ratings","4,293 Reviews",,yes,1 Year, 10 ,"₹16,390","₹20,700",20% off
+353,Hisense,688 L,,,,no,4.4,"19,653 Ratings","1,211 Reviews",Normal Compressor,,, 10 ,"₹61,990","₹1,29,990",52% off
+354,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,48 Ratings,8 Reviews,Fixed Speed Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+355,Godrej,183 L,Single Door, Direct Cool,3 Star,no,4.3,15 Ratings,5 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹13,990","₹21,590",35% off
+356,Whirlpool,,Double Door,,2 Star,no,4,"15,637 Ratings","1,110 Reviews",,yes,1 Year, 10 ,"₹33,590","₹49,200",31% off
+357,Whirlpool,200 L,Single Door, Direct Cool,3 Star,no,4.5,"12,736 Ratings","1,328 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹19,890","₹22,990",13% off
+358,Whirlpool,184 L,Single Door, Direct Cool,5 Star,no,4.3,"15,637 Ratings","1,110 Reviews",Smart Inverter Compressor,yes,1 Year, 10 ,"₹16,490","₹21,450",23% off
+359,LG,190 L,Single Door, Direct Cool,3 Star,no,4.5,10 Ratings,1 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹16,190","₹19,599",17% off
+360,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"3,566 Ratings",237 Reviews,Normal Compressor,,, 10 ,"₹16,390","₹22,999",28% off
+361,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"12,919 Ratings",878 Reviews,,yes,1 Year, 9 ,"₹12,790","₹17,000",24% off
+362,Lloyd,240 L,Double Door,,3 Star,no,3.9,"7,737 Ratings",550 Reviews,,yes,1 Year, 8 ,"₹24,290","₹40,890",40% off
+363,Liebherr,265 L,Double Door,,3 Star,no,4.4,14 Ratings,0 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹27,590","₹40,160",31% off
+364,Whirlpool,184 L,Single Door, Direct Cool,5 Star,no,4.3,"65,317 Ratings","4,293 Reviews",Reciprocatory Compressor,yes,1 Year, 10 ,"₹16,490","₹21,450",23% off
+365,CANDY,205 L,Single Door, Direct Cool,3 Star,no,4.3,16 Ratings,0 Reviews,Reciprocating Compressor,yes,1 Year, 9 ,"₹15,290","₹20,990",27% off
+366,Whirlpool,192 L,Single Door, Direct Cool,4 Star,no,4.3,"13,765 Ratings","1,151 Reviews",Reciprocating Compressor,yes,1 Year, 9 ,"₹15,490","₹21,750",28% off
+367,Whirlpool,192 L,Single Door, Direct Cool,4 Star,no,,"25,002 Ratings","2,543 Reviews",DC Inverter Compressor,yes,1 Year, 10 ,"₹14,990","₹20,500",26% off
+368,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.2,473 Ratings,66 Reviews,Reciprocating Compressor,yes,1 Year, 5 ,"₹15,900","₹20,700",23% off
+369,BPL,45 L,Single Door, Direct Cool,2 Star,no,,"5,271 Ratings",346 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹8,600","₹12,490",31% off
+370,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"19,653 Ratings","1,211 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹9,990","₹13,490",25% off
+371,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,,1 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹17,990","₹21,999",18% off
+372,Haier,190 L,Single Door, Direct Cool,2 Star,no,4.3,"3,758 Ratings",447 Reviews,Normal Compressor,yes,2 Years, 10 ,"₹13,300","₹18,199",26% off
+373,Haier,235 L,Single Door, Direct Cool,2 Star,no,4.3,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹18,790","₹24,790",24% off
+374,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"13,916 Ratings","1,411 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹17,490","₹22,999",23% off
+375,Whirlpool,467 L,Double Door,,2 Star,no,4.6,"19,653 Ratings","1,211 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹56,690","₹84,650",33% off
+376,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,"15,637 Ratings","1,110 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹19,990","₹30,999",35% off
+377,Whirlpool,215 L,Triple Door,,,no,4.3,678 Ratings,52 Reviews,Inverter Compressor,yes,1 year, 10 ,"₹23,990","₹30,150",20% off
+378,Panasonic,304 L,Double Door,,3 Star,no,4.3,,0 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹31,790","₹56,000",43% off
+379,Whirlpool,207 L,Single Door, Direct Cool,3 Star,no,,"15,637 Ratings","1,110 Reviews",Reciprocating Compressor,yes,1 Year, 10 ,"₹19,989","₹23,200",13% off
+380,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"12,630 Ratings","1,393 Reviews",Normal Compressor,,, 10 ,"₹12,590","₹25,990",51% off
+381,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"3,566 Ratings",237 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+382,Lloyd,178 L,Single Door, Direct Cool,2 Star,no,4.2,221 Ratings,30 Reviews,IntelliSense Inverter Compressor,yes,1 Year, 10 ,"₹11,890","₹16,990",30% off
+383,Whirlpool,215 L,Single Door, Direct Cool,5 Star,no,4.4,"12,919 Ratings",878 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹26,990",,
+384,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹16,390","₹22,999",28% off
+385,Whirlpool,190 L,Single Door, Direct Cool,4 Star,no,4.4,395 Ratings,22 Reviews,Normal Compressor,,, 10 ,"₹17,790","₹19,700",9% off
+386,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,15 Ratings,5 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹12,790","₹17,000",24% off
+387,Whirlpool,184 L,Single Door, Direct Cool,5 Star,no,4.3,"13,765 Ratings","1,151 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹16,490","₹21,450",23% off
+388,Godrej,244 L,Double Door,,3 Star,no,4.1,"25,002 Ratings","2,543 Reviews",,yes,1 Year, 10 ,"₹23,990","₹31,500",23% off
+389,Haier,190 L,Single Door, Direct Cool,3 Star,no,4.3,,0 Reviews,Reciprocating Compressor,yes,1 Year, 9 ,"₹16,990","₹23,990",29% off
+390,Whirlpool,192 L,Single Door, Direct Cool,4 Star,no,4.3,"12,736 Ratings","1,328 Reviews",Reciprocating Compressor,yes,1 Year, 9 ,"₹15,490","₹21,750",28% off
+391,Whirlpool,192 L,Single Door, Direct Cool,4 Star,no,,"5,271 Ratings",346 Reviews,Reciprocating Compressor,yes,1 Year, 5 ,"₹14,990","₹20,500",26% off
+392,BPL,45 L,Single Door, Direct Cool,2 Star,no,,10 Ratings,1 Reviews,,yes,1 Year, 10 ,"₹8,600","₹12,490",31% off
+393,Whirlpool,440 L,Double Door,,3 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹53,290","₹70,750",24% off
+394,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"7,898 Ratings",461 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹9,990","₹13,490",25% off
+395,Lloyd,252 L,Double Door,,2 Star,no,4.5,35 Ratings,1 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹27,449","₹29,990",8% off
+396,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,220 Ratings,23 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹17,990","₹21,999",18% off
+397,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Normal Compressor,yes,2 Years, 10 ,"₹17,490","₹22,999",23% off
+398,Haier,215 L,Single Door, Direct Cool,3 Star,no,4.3,"19,653 Ratings","1,211 Reviews",,yes,1 Year, 8 ,"₹17,490","₹23,990",27% off
+399,Liebherr,265 L,Double Door,,3 Star,no,4.4,395 Ratings,22 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹27,590","₹40,160",31% off
+400,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,"16,705 Ratings","1,279 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹19,990","₹30,999",35% off
+401,Whirlpool,215 L,Triple Door,,,no,4.3,"3,566 Ratings",237 Reviews,,yes,1 year, 9 ,"₹23,990","₹30,150",20% off
+402,Whirlpool,308 L,Double Door,,2 Star,no,3.7,395 Ratings,22 Reviews,Reciprocatory Compressor,yes,1 Year, 10 ,"₹35,324","₹48,600",27% off
+403,CANDY,205 L,Single Door, Direct Cool,3 Star,no,4.3,"5,271 Ratings",346 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹15,290","₹20,990",27% off
+404,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"12,919 Ratings",878 Reviews,DC Inverter Compressor,yes,1 Year, 10 ,"₹12,590","₹25,990",51% off
+405,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.2,,0 Reviews,Normal Compressor,,, 10 ,"₹15,900","₹20,700",23% off
+406,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,,1 Reviews,Fixed Speed Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+407,Godrej,183 L,Single Door, Direct Cool,3 Star,no,4.3,"2,836 Ratings",310 Reviews,,yes,1 Year, 10 ,"₹13,990","₹21,590",35% off
+408,LG,185 L,Single Door, Direct Cool,1 Star,no,4.5,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 Year, 10 ,"₹15,999","₹16,990",5% off
+409,SAMSUNG,670 L,Double Door,,2 Star,no,4.5,,1 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹74,990","₹93,840",20% off
+410,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"5,271 Ratings",346 Reviews,Normal Compressor,,, 10 ,"₹16,390","₹22,999",28% off
+411,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"13,765 Ratings","1,151 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+412,Haier,205 L,Single Door, Direct Cool,3 Star,no,4.3,,1 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹17,490","₹25,990",32% off
+413,Haier,190 L,Single Door, Direct Cool,4 Star,no,4.4,550 Ratings,82 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹19,500","₹23,500",17% off
+414,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"25,002 Ratings","2,543 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹9,990","₹13,490",25% off
+415,Haier,215 L,Single Door, Direct Cool,3 Star,no,4.3,123 Ratings,11 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹16,990","₹22,990",26% off
+416,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"5,271 Ratings",346 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹12,590","₹25,990",51% off
+417,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"19,653 Ratings","1,211 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹17,990","₹21,999",18% off
+418,Whirlpool,236 L,Single Door, Direct Cool,3 Star,no,3.5,"65,317 Ratings","4,293 Reviews",Linear Compressor,yes,1 Year, 9 ,"₹21,890","₹29,500",25% off
+419,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.9,"19,653 Ratings","1,211 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹14,590","₹20,999",30% off
+420,CANDY,240 L,Double Door,,2 Star,no,4.3,16 Ratings,1 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹18,990","₹26,490",28% off
+421,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"1,660 Ratings",169 Reviews,,yes,1 Year, 10 ,"₹17,490","₹22,999",23% off
+422,Haier,598 L,Triple Door,,,no,5,550 Ratings,82 Reviews,Reciprocating Compressor,yes,2 Years, 10 ,"₹96,990","₹1,49,290",35% off
+423,Voltas,200 L,Double Door, Direct Cool,4 Star,no,4.3,"15,637 Ratings","1,110 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹16,949","₹26,390",35% off
+424,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,,0 Reviews,,yes,1 year, 9 ,"₹19,990","₹30,999",35% off
+425,Whirlpool,231 L,Double Door,,2 Star,no,4,"1,818 Ratings",149 Reviews,Inverter Compressor,,, 10 ,"₹32,800","₹37,500",12% off
+426,CANDY,602 L,,,,no,4.6,"15,637 Ratings","1,110 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹49,990","₹69,490",28% off
+427,Whirlpool,215 L,Triple Door,,,no,4.3,853 Ratings,88 Reviews,VarioInverter Compressor,yes,1 Year, 10 ,"₹23,990","₹30,150",20% off
+428,BOSCH,195 L,Single Door, Direct Cool,4 Star,no,,"1,818 Ratings",149 Reviews,DC Inverter Compressor,yes,1 Year, 10 ,"₹25,490",,
+429,Whirlpool,184 L,Single Door, Direct Cool,4 Star,no,4.5,"3,566 Ratings",237 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹15,890","₹20,350",21% off
+430,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"12,919 Ratings",878 Reviews,Normal Compressor,,, 10 ,"₹11,690","₹24,990",53% off
+431,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,,0 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹12,790","₹17,000",24% off
+432,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"5,271 Ratings",346 Reviews,Normal Compressor,,, 10 ,"₹16,390","₹22,999",28% off
+433,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"65,317 Ratings","4,293 Reviews",Reciprocating Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+434,LG,190 L,Single Door, Direct Cool,3 Star,no,4.4,"13,765 Ratings","1,151 Reviews",IntelliSense Inverter Compressor,yes,1 Year, 9 ,"₹19,152","₹19,650",2% off
+435,Whirlpool,205 L,Single Door, Direct Cool,5 Star,no,4.3,"25,002 Ratings","2,543 Reviews",Inverter Compressor,,, 10 ,"₹18,490","₹24,050",23% off
+436,CANDY,602 L,,,,no,4.6,"19,653 Ratings","1,211 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹49,990","₹69,490",28% off
+437,Whirlpool,184 L,Single Door, Direct Cool,5 Star,no,4.3,"34,048 Ratings","2,886 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹16,490","₹21,450",23% off
+438,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,no,4.8,"65,317 Ratings","4,293 Reviews",Normal Compressor,yes,1 year, 10 ,"₹18,900","₹23,990",21% off
+439,Lloyd,188 L,Single Door, Direct Cool,1 Star,no,,"19,653 Ratings","1,211 Reviews",,yes,1 Year, 10 ,"₹14,089","₹16,990",17% off
+440,Voltas,228 L,Double Door,,3 Star,no,4.1,594 Ratings,46 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹22,390","₹39,490",43% off
+441,Lloyd,280 L,Double Door,,2 Star,no,,,1 Reviews,Reciprocating Compressor,yes,1 Year, 9 ,"₹28,990","₹46,490",37% off
+442,Whirlpool,192 L,Single Door, Direct Cool,4 Star,no,4.3,"3,566 Ratings",237 Reviews,Reciprocating Compressor,yes,1 Year, 9 ,"₹15,490","₹21,750",28% off
+443,Whirlpool,192 L,Single Door, Direct Cool,4 Star,no,,"3,412 Ratings",388 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹14,990","₹20,500",26% off
+444,Whirlpool,215 L,Triple Door,,,no,4.3,"5,271 Ratings",346 Reviews,,yes,1 Year, 10 ,"₹26,350","₹31,599",16% off
+445,Voltas,248 L,Double Door,,3 Star,no,4.1,"12,919 Ratings",878 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹49,999",,
+446,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"1,214 Ratings",116 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹9,990","₹13,490",25% off
+447,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"2,836 Ratings",310 Reviews,,yes,,,"₹17,990","₹21,999",18% off
+448,ONIDA,195 L,Single Door, Direct Cool,2 Star,no,4.5,"65,317 Ratings","4,293 Reviews",Reciprocating Compressor,yes,1 Year, 10 ,"₹12,979","₹20,490",36% off
+449,Voltas,173 L,Double Door, Direct Cool,2 Star,no,4.3,"12,378 Ratings","1,229 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹14,490","₹22,999",36% off
+450,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"1,773 Ratings",158 Reviews,Digital Inverter Compressor,yes,1 Year, 20 ,"₹17,490","₹22,999",23% off
+451,SAMSUNG,256 L,Double Door,,2 Star,no,,"13,765 Ratings","1,151 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹29,919","₹36,990",19% off
+452,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,,0 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹19,990","₹30,999",35% off
+453,Whirlpool,215 L,Triple Door,,,no,4.3,550 Ratings,82 Reviews,Normal Compressor,,, 10 ,"₹23,990","₹30,150",20% off
+454,Whirlpool,184 L,Single Door, Direct Cool,4 Star,no,4.3,"25,002 Ratings","2,543 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹14,990","₹19,000",21% off
+455,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,32 Ratings,8 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹17,990","₹24,999",28% off
+456,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,10 Ratings,0 Reviews,Normal Compressor,,, 10 ,"₹16,390","₹22,999",28% off
+457,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"5,271 Ratings",346 Reviews,Smart Inverter Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+458,LG,272 L,Double Door,,2 Star,no,4.2,"19,653 Ratings","1,211 Reviews",Smart Inverter Compressor,yes,1 Year, 10 ,"₹28,990","₹37,099",21% off
+459,LG,655 L,,,,yes,4.9,,1 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹91,490","₹1,50,699",39% off
+460,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"3,118 Ratings",333 Reviews,Smart Inverter Compressor,yes,1 Year, 10 ,"₹9,990","₹13,490",25% off
+461,LG,322 L,Double Door,,2 Star,no,4.5,"65,317 Ratings","4,293 Reviews",Reciprocating Compressor,yes,1 Year, 10 ,"₹35,990","₹46,199",22% off
+462,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,19 Ratings,3 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹12,590","₹25,990",51% off
+463,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"19,653 Ratings","1,211 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹17,990","₹21,999",18% off
+464,Haier,190 L,Single Door, Direct Cool,2 Star,no,,"3,566 Ratings",237 Reviews,IntelliSense Inverter Compressor,yes,1 Year, 10 ,"₹15,599","₹21,723",28% off
+465,Whirlpool,215 L,Single Door, Direct Cool,5 Star,no,4.3,"5,271 Ratings",346 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹26,999",,
+466,CANDY,240 L,Double Door,,2 Star,no,4.3,"12,919 Ratings",878 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹18,990","₹26,490",28% off
+467,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,156 Ratings,11 Reviews,Fixed Speed Compressor,yes,1 Year, 10 ,"₹17,490","₹22,999",23% off
+468,Godrej,185 L,Single Door, Direct Cool,4 Star,no,4.3,20 Ratings,1 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹14,490","₹16,490",12% off
+469,Whirlpool,235 L,Double Door,,2 Star,no,4.3,"2,836 Ratings",310 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹24,990","₹31,500",20% off
+470,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,"65,317 Ratings","4,293 Reviews",,,, 9 ,"₹19,990","₹30,999",35% off
+471,Electrolux,360 L,Double Door,,1 Star,no,3.7,"13,765 Ratings","1,151 Reviews",Inverter Compressor,,, 10 ,"₹53,490","₹83,990",36% off
+472,CANDY,602 L,,,,no,4.6,,1 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹49,990","₹69,490",28% off
+473,Whirlpool,215 L,Triple Door,,,no,4.3,550 Ratings,82 Reviews,Advanced Inverter Compressor,yes,1 Year, 10 ,"₹23,990","₹30,150",20% off
+474,realme,631 L,,,,no,4.3,"25,002 Ratings","2,543 Reviews",,,,,"₹60,990","₹99,990",39% off
+475,Godrej,99 L,Single Door, Direct Cool,1 Star,no,3.8,22 Ratings,2 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹11,482","₹14,424",20% off
+476,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"5,271 Ratings",346 Reviews,Normal Compressor,,, 10 ,"₹11,690","₹24,990",53% off
+477,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,32 Ratings,3 Reviews,,yes,, 8 ,"₹12,790","₹17,000",24% off
+478,Liebherr,310 L,Double Door,,2 Star,no,4.8,"19,653 Ratings","1,211 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹42,390","₹64,990",34% off
+479,SAMSUNG,198 L,Single Door, Direct Cool,5 Star,no,4.4,"7,898 Ratings",461 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹17,700","₹20,990",15% off
+480,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"8,273 Ratings",838 Reviews,,,,,"₹16,390","₹22,999",28% off
+481,BOSCH,303 L,Triple Door,,,no,4.2,,0 Reviews,Normal Compressor,,, 10 ,"₹36,990","₹59,390",37% off
+482,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"65,317 Ratings","4,293 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+483,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"3,566 Ratings",237 Reviews,Digital Inverter Compressor,yes,1 Year, 10 ,"₹9,990","₹13,490",25% off
+484,SAMSUNG,183 L,Single Door, Direct Cool,3 Star,no,,11 Ratings,3 Reviews,Reciprocating Compressor,yes,2 Years, 10 ,"₹15,700","₹19,999",21% off
+485,Voltas,185 L,Single Door, Direct Cool,5 Star,no,,"1,872 Ratings",198 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹19,935","₹32,390",38% off
+486,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹12,590","₹25,990",51% off
+487,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"5,271 Ratings",346 Reviews,,yes,1 Year, 10 ,"₹17,990","₹21,999",18% off
+488,Whirlpool,215 L,Triple Door,,,no,4.2,"5,271 Ratings",346 Reviews,Digital Inverter Compressor,yes,1 Year, 20 ,"₹26,390","₹38,650",31% off
+489,SAMSUNG,183 L,Single Door, Direct Cool,3 Star,no,4.2,"13,390 Ratings","1,111 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹15,990","₹21,999",27% off
+490,CANDY,240 L,Double Door,,2 Star,no,4.3,"2,836 Ratings",310 Reviews,Reciprocating Compressor,yes,2 Years, 10 ,"₹18,990","₹26,490",28% off
+491,Voltas,185 L,Single Door, Direct Cool,5 Star,no,,"12,919 Ratings",878 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹19,900","₹32,390",38% off
+492,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,,1 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹17,490","₹22,999",23% off
+493,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,156 Ratings,11 Reviews,,yes,1 Year, 10 ,"₹19,990","₹30,999",35% off
+494,Haier,240 L,Double Door,,2 Star,no,4.5,"7,091 Ratings",497 Reviews,Reciprocating Compressor,yes,2 Years, 10 ,"₹24,999","₹36,700",31% off
+495,Voltas,185 L,Single Door, Direct Cool,4 Star,no,,20 Ratings,1 Reviews,Inverter Compressor,,, 10 ,"₹18,100","₹30,790",41% off
+496,CANDY,602 L,,,,no,4.6,550 Ratings,82 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹49,990","₹69,490",28% off
+497,Whirlpool,215 L,Triple Door,,,no,4.3,"13,765 Ratings","1,151 Reviews",,yes,1 Year, 10 ,"₹23,990","₹30,150",20% off
+498,Whirlpool,235 L,Triple Door,,,no,4.6,,1 Reviews,Reciprocating Compressor,yes,2 Years, 10 ,"₹29,950","₹39,450",24% off
+499,Voltas,185 L,Single Door, Direct Cool,4 Star,no,,"65,317 Ratings","4,293 Reviews",Reciprocating Compressor,yes,1 Year, 10 ,"₹17,800","₹28,390",37% off
+500,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"25,002 Ratings","2,543 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹11,690","₹24,990",53% off
+501,Whirlpool,325 L,Double Door,,2 Star,no,4.3,,0 Reviews,Normal Compressor,,, 10 ,"₹38,290","₹47,250",18% off
+502,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,190 Ratings,25 Reviews,Fixed Speed Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+503,Godrej,183 L,Single Door, Direct Cool,3 Star,no,4.3,"65,317 Ratings","4,293 Reviews",Non Inverter Compressor,yes,1 Year, 10 ,"₹13,990","₹21,590",35% off
+504,Whirlpool,207 L,Single Door, Direct Cool,3 Star,no,4.3,63 Ratings,14 Reviews,,yes,2 Year, 10 ,"₹18,300","₹22,500",18% off
+505,Haier,190 L,Single Door, Direct Cool,5 Star,no,3,"19,653 Ratings","1,211 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹21,300","₹29,500",27% off
+506,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"3,566 Ratings",237 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹16,390","₹22,999",28% off
+507,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"19,653 Ratings","1,211 Reviews",Inverter Compressor,yes,2 Years, 10 ,"₹9,990","₹13,490",25% off
+508,Haier,253 L,Single Door, Direct Cool,3 Star,no,3.7,334 Ratings,30 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹20,990","₹30,990",32% off
+509,Haier,598 L,,,,no,4.5,"5,271 Ratings",346 Reviews,Normal Compressor,,, 10 ,"₹93,990","₹1,47,290",36% off
+510,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"12,919 Ratings",878 Reviews,Digital Inverter Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+511,SAMSUNG,183 L,Single Door, Direct Cool,3 Star,no,,"4,434 Ratings",382 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹15,700","₹19,999",21% off
+512,Voltas,183 L,Single Door, Direct Cool,3 Star,no,4.3,117 Ratings,9 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹12,790","₹26,490",51% off
+513,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"2,836 Ratings",310 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹12,590","₹25,990",51% off
+514,SAMSUNG,192 L,Single Door, Direct Cool,3 Star,no,4.4,13 Ratings,1 Reviews,Reciprocating Compressor,yes,2 Years, 10 ,"₹15,090","₹17,990",16% off
+515,Voltas,185 L,Single Door, Direct Cool,5 Star,no,,"65,317 Ratings","4,293 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹19,935","₹32,390",38% off
+516,CANDY,240 L,Double Door,,2 Star,no,4.3,"13,765 Ratings","1,151 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹18,990","₹26,490",28% off
+517,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,,1 Reviews,Reciprocatory Compressor,,, 10 ,"₹17,990","₹21,999",18% off
+518,Whirlpool,330 L,Triple Door,,,no,2,46 Ratings,5 Reviews,,yes,1 Year, 10 ,"₹32,080","₹46,450",30% off
+519,Whirlpool,215 L,Triple Door,,,no,4.2,550 Ratings,82 Reviews,Smart Inverter Compressor,yes,1 Year, 10 ,"₹26,390","₹38,650",31% off
+520,LG,,Single Door, Direct Cool,5 Star,yes,4.5,"25,002 Ratings","2,543 Reviews",Digital Inverter Compressor,yes,1 Year, 20 ,"₹17,490","₹22,699",22% off
+521,SAMSUNG,183 L,Single Door, Direct Cool,3 Star,no,4.2,179 Ratings,18 Reviews,Inverter Compressor,,, 10 ,"₹15,990","₹21,999",27% off
+522,CANDY,602 L,,,,no,4.6,,0 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹49,990","₹69,490",28% off
+523,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,"5,271 Ratings",346 Reviews,Reciprocating Compressor,yes,2 Years, 10 ,"₹19,990","₹30,999",35% off
+524,Voltas,185 L,Single Door, Direct Cool,5 Star,no,,"65,317 Ratings","4,293 Reviews",,yes,1 Year, 10 ,"₹19,900","₹32,390",38% off
+525,Haier,240 L,Double Door,,2 Star,no,4.5,"19,653 Ratings","1,211 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹24,999","₹36,700",31% off
+526,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"2,815 Ratings",163 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹17,490","₹22,999",23% off
+527,Whirlpool,215 L,Triple Door,,,no,4.3,33 Ratings,3 Reviews,Digital Inverter Compressor,yes,1 Year, 10 ,"₹23,990","₹30,150",20% off
+528,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,no,4.5,"15,637 Ratings","1,110 Reviews",,yes,, 2 ,"₹21,500","₹25,999",17% off
+529,Liebherr,205 L,Single Door, Direct Cool,3 Star,no,4.5,"15,637 Ratings","1,110 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹14,790","₹24,570",39% off
+530,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,52 Ratings,1 Reviews,Inverter Compressor,yes,2 Years, 10 ,"₹16,390","₹22,999",28% off
+531,Panasonic,401 L,Double Door,,2 Star,no,4.3,,1 Reviews,Normal Compressor,,, 10 ,"₹52,490","₹88,690",40% off
+532,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"3,566 Ratings",237 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+533,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"12,919 Ratings",878 Reviews,Normal Compressor,,, 10 ,"₹9,990","₹13,490",25% off
+534,Whirlpool,207 L,Single Door, Direct Cool,5 Star,no,4.3,157 Ratings,9 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹18,840","₹23,900",21% off
+535,Whirlpool,190 L,Single Door, Direct Cool,4 Star,no,4.2,,1 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹17,990","₹22,500",20% off
+536,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹12,590","₹25,990",51% off
+537,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"13,765 Ratings","1,151 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹17,990","₹21,999",18% off
+538,Godrej,268 L,Single Door, Direct Cool,3 Star,no,4.3,67 Ratings,4 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹23,353","₹29,990",22% off
+539,Whirlpool,192 L,Single Door, Direct Cool,3 Star,no,4.3,"5,324 Ratings",496 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹15,299","₹19,990",23% off
+540,CANDY,240 L,Double Door,,2 Star,no,4.3,"25,002 Ratings","2,543 Reviews",,yes,1 Years, 10 ,"₹18,990","₹26,490",28% off
+541,Haier,185 L,Single Door, Direct Cool,4 Star,no,4.1,29 Ratings,0 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹19,999","₹27,490",27% off
+542,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"5,271 Ratings",346 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹17,490","₹22,999",23% off
+543,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,"19,653 Ratings","1,211 Reviews",,yes,, 8 ,"₹19,990","₹30,999",35% off
+544,Liebherr,240 L,Double Door,,2 Star,no,5,23 Ratings,1 Reviews,,yes,1 Year, 10 ,"₹22,590","₹37,190",39% off
+545,Acer,190 L,Single Door, Direct Cool,2 Star,no,4.4,"3,660 Ratings",358 Reviews,Inverter Compressor,,, 10 ,"₹13,999","₹20,999",33% off
+546,CANDY,602 L,,,,no,4.6,"65,317 Ratings","4,293 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹49,990","₹69,490",28% off
+547,Whirlpool,215 L,Triple Door,,,no,4.3,"19,653 Ratings","1,211 Reviews",,yes,2 Years, 12 ,"₹23,990","₹30,150",20% off
+548,Voltas,268 L,Double Door,,3 Star,no,4.4,920 Ratings,142 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹29,990","₹39,990",25% off
+549,Whirlpool,192 L,Single Door, Direct Cool,2 Star,no,4.3,25 Ratings,1 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹15,590","₹20,990",25% off
+550,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"3,566 Ratings",237 Reviews,,,,,"₹11,690","₹24,990",53% off
+551,Whirlpool,192 L,Single Door, Direct Cool,3 Star,no,,"3,660 Ratings",358 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹15,950","₹19,530",18% off
+552,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"5,271 Ratings",346 Reviews,Normal Compressor,,, 10 ,"₹16,390","₹22,999",28% off
+553,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"12,919 Ratings",878 Reviews,,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+554,Godrej,180 L,Single Door, Direct Cool,2 Star,no,4.3,51 Ratings,5 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹12,490","₹17,500",28% off
+555,Haier,265 L,Double Door,,3 Star,no,4.8,"3,660 Ratings",358 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹34,990","₹58,200",39% off
+556,Whirlpool,184 L,Single Door, Direct Cool,5 Star,no,4.3,"2,836 Ratings",310 Reviews,Reciprocating Compressor,yes,1 Year, 9 ,"₹16,490","₹21,450",23% off
+557,Whirlpool,192 L,Single Door, Direct Cool,4 Star,no,4.3,"65,317 Ratings","4,293 Reviews",VarioInverter Compressor,yes,1 Year, 10 ,"₹15,490","₹21,750",28% off
+558,BOSCH,334 L,Double Door,,2 Star,no,,74 Ratings,7 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹37,890","₹58,990",35% off
+559,Whirlpool,192 L,Single Door, Direct Cool,3 Star,no,4.2,"13,765 Ratings","1,151 Reviews",Reciprocating Compressor,yes,1 Year, 9 ,"₹16,269","₹20,050",18% off
+560,Whirlpool,192 L,Single Door, Direct Cool,4 Star,no,,103 Ratings,7 Reviews,Reciprocatory Compressor,,, 10 ,"₹14,990","₹20,500",26% off
+561,Whirlpool,330 L,Triple Door,,,no,2,550 Ratings,82 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹32,080","₹46,450",30% off
+562,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"25,002 Ratings","2,543 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹9,990","₹13,490",25% off
+563,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,42 Ratings,4 Reviews,Smart Inverter Compressor,yes,1 Year, 10 ,"₹17,990","₹21,999",18% off
+564,LG,242 L,Double Door,,2 Star,no,4.1,,3 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹21,915","₹29,247",25% off
+565,Lloyd,310 L,Multi-Door,,2 Star,no,4,"5,271 Ratings",346 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹26,590","₹43,490",38% off
+566,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"19,653 Ratings","1,211 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹17,490","₹22,999",23% off
+567,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,400 Ratings,39 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹19,990","₹30,999",35% off
+568,LG,185 L,Single Door, Direct Cool,3 Star,no,4.2,"65,317 Ratings","4,293 Reviews",,yes,1 Year, 9 ,"₹16,790","₹20,399",17% off
+569,Lloyd,178 L,Single Door, Direct Cool,3 Star,no,4.3,590 Ratings,34 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹14,985","₹19,500",23% off
+570,Whirlpool,215 L,Triple Door,,,no,4.3,"19,653 Ratings","1,211 Reviews",,yes,1 Years,,"₹23,990","₹30,150",20% off
+571,Haier,190 L,Single Door, Direct Cool,3 Star,no,4.2,"15,637 Ratings","1,110 Reviews",Reciprocating Compressor,yes,1 Year, 10 ,"₹17,999","₹27,490",34% off
+572,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,,0 Reviews,Normal Compressor,,, 10 ,"₹12,590","₹25,990",51% off
+573,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,395 Ratings,22 Reviews,,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+574,BOSCH,243 L,Double Door,,3 Star,no,3.7,"15,637 Ratings","1,110 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹27,990","₹38,590",27% off
+575,Whirlpool,192 L,Single Door, Direct Cool,3 Star,no,4.3,208 Ratings,19 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹18,000","₹23,000",21% off
+576,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"3,566 Ratings",237 Reviews,Normal Compressor,,, 10 ,"₹16,390","₹22,999",28% off
+577,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,33 Ratings,7 Reviews,Reciprocatory Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+578,Whirlpool,192 L,Single Door, Direct Cool,3 Star,no,4.2,"12,919 Ratings",878 Reviews,,yes,1 Year, 10 ,"₹17,499","₹18,125",3% off
+579,Haier,175 L,Single Door, Direct Cool,2 Star,no,4.2,"65,317 Ratings","4,293 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹13,590","₹17,092",20% off
+580,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,395 Ratings,22 Reviews,DC Inverter Compressor,yes,1 Year, 10 ,"₹9,990","₹13,490",25% off
+581,Whirlpool,207 L,Single Door, Direct Cool,4 Star,no,4.3,"13,765 Ratings","1,151 Reviews",Reciprocating Compressor,yes,1 Year, 10 ,"₹19,490","₹23,450",16% off
+582,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"25,002 Ratings","2,543 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹12,590","₹25,990",51% off
+583,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,73 Ratings,3 Reviews,Digital Inverter Compressor,yes,1 Year, 10 ,"₹17,990","₹21,999",18% off
+584,SAMSUNG,223 L,Single Door, Direct Cool,3 Star,no,4.2,127 Ratings,12 Reviews,Non Inverter Compressor,yes,1 Year, 10 ,"₹19,990","₹25,999",23% off
+585,Whirlpool,192 L,Single Door, Direct Cool,3 Star,no,4.3,"5,271 Ratings",346 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹16,949","₹20,200",16% off
+586,CANDY,240 L,Double Door,,2 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹18,990","₹26,490",28% off
+587,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"7,898 Ratings",461 Reviews,Digital Inverter Compressor,yes,1 Year, 10 ,"₹17,490","₹22,999",23% off
+588,SAMSUNG,183 L,Single Door, Direct Cool,3 Star,no,,,1 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹19,290","₹20,481",5% off
+589,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.1,103 Ratings,20 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹13,580","₹17,650",23% off
+590,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,"65,317 Ratings","4,293 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹19,990","₹30,999",35% off
+591,Whirlpool,184 L,Single Door, Direct Cool,3 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Inverter Compressor,,, 10 ,"₹15,140","₹18,800",19% off
+592,CANDY,602 L,,,,no,4.6,49 Ratings,2 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹49,990","₹69,490",28% off
+593,Whirlpool,215 L,Triple Door,,,no,4.3,590 Ratings,34 Reviews,DC Inverter Compressor,yes,1 Year, 10 ,"₹23,990","₹30,150",20% off
+594,Whirlpool,200 L,Single Door, Direct Cool,4 Star,no,4.1,"3,566 Ratings",237 Reviews,Digital Inverter Compressor,yes,1 Year, 10 ,"₹17,790","₹22,900",22% off
+595,SAMSUNG,363 L,Double Door,,2 Star,no,4.4,,0 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹44,990","₹61,990",27% off
+596,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"5,271 Ratings",346 Reviews,Normal Compressor,,, 10 ,"₹11,690","₹24,990",53% off
+597,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"12,919 Ratings",878 Reviews,Digital Inverter Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+598,Panasonic,280 L,Double Door,,3 Star,no,,208 Ratings,19 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹30,468","₹35,990",15% off
+599,Godrej,294 L,Double Door,,2 Star,no,4.2,"2,836 Ratings",310 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹36,000","₹37,997",5% off
+600,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹16,390","₹22,999",28% off
+601,Haier,185 L,Single Door, Direct Cool,2 Star,no,4.4,33 Ratings,7 Reviews,Normal Compressor,,, 10 ,"₹19,500","₹20,400",4% off
+602,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"4,998 Ratings",424 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹12,790","₹17,000",24% off
+603,Whirlpool,184 L,Single Door, Direct Cool,5 Star,no,4.3,"13,765 Ratings","1,151 Reviews",,yes,1 Year, 20 ,"₹16,490","₹21,450",23% off
+604,SAMSUNG,236 L,Double Door,,1 Star,no,4.3,395 Ratings,22 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹24,210","₹28,990",16% off
+605,Haier,205 L,Single Door, Direct Cool,3 Star,no,4.3,550 Ratings,82 Reviews,Reciprocating Compressor,yes,1 Year, 9 ,"₹15,990","₹23,890",33% off
+606,Whirlpool,192 L,Single Door, Direct Cool,4 Star,no,4.3,"25,002 Ratings","2,543 Reviews",Reciprocating Compressor,yes,1 Year, 9 ,"₹15,490","₹21,750",28% off
+607,Whirlpool,192 L,Single Door, Direct Cool,4 Star,no,,73 Ratings,3 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹14,990","₹20,500",26% off
+608,SAMSUNG,,Double Door,,2 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹36,590","₹46,990",22% off
+609,Godrej,472 L,Double Door,,2 Star,no,,"7,898 Ratings",461 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹48,490","₹75,990",36% off
+610,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,499 Ratings,46 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹9,990","₹13,490",25% off
+611,Hitachi,565 L,Double Door,,3 Star,no,4.2,48 Ratings,8 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹74,490","₹77,500",3% off
+612,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹17,990","₹21,999",18% off
+613,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"19,653 Ratings","1,211 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹17,490","₹22,999",23% off
+614,Haier,215 L,Single Door, Direct Cool,3 Star,no,4.3,"3,566 Ratings",237 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹17,990","₹24,990",28% off
+615,Lloyd,310 L,Double Door,,3 Star,no,,,0 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹35,390","₹53,490",33% off
+616,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,16 Ratings,1 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹19,990","₹30,999",35% off
+617,Whirlpool,215 L,Triple Door,,,no,4.3,"5,271 Ratings",346 Reviews,,yes,1 Year, 10 ,"₹23,990","₹30,150",20% off
+618,Godrej,331 L,Double Door,,2 Star,no,4,"12,919 Ratings",878 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹29,990","₹47,540",36% off
+619,SAMSUNG,314 L,Double Door,,2 Star,no,4.3,,2 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹39,200","₹44,990",12% off
+620,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,134 Ratings,10 Reviews,Inverter Compressor,yes,10 Years, 1 ,"₹12,590","₹25,990",51% off
+621,Godrej,180 L,Single Door, Direct Cool,5 Star,no,,"2,836 Ratings",310 Reviews,Normal Compressor,,, 10 ,"₹17,690","₹25,690",31% off
+622,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"3,412 Ratings",388 Reviews,Fixed Speed Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+623,Godrej,183 L,Single Door, Direct Cool,3 Star,no,4.3,"65,317 Ratings","4,293 Reviews",,yes,1 Year, 10 ,"₹13,990","₹21,590",35% off
+624,Hitachi,403 L,Double Door,,2 Star,no,3.2,"13,765 Ratings","1,151 Reviews",,yes,2 Years, 12 ,"₹43,990","₹66,000",33% off
+625,Voltas,340 L,Double Door,,2 Star,no,3.9,,0 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹44,999",,
+626,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,46 Ratings,5 Reviews,Normal Compressor,,, 10 ,"₹16,390","₹22,999",28% off
+627,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,550 Ratings,82 Reviews,Inverter Compressor,,, 08 ,"₹12,790","₹17,000",24% off
+628,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"25,002 Ratings","2,543 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹14,950","₹20,900",28% off
+629,Haier,185 L,Single Door, Direct Cool,2 Star,no,4.4,401 Ratings,35 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹19,500","₹20,400",4% off
+630,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"6,164 Ratings",700 Reviews,,yes,1 Year, 20 ,"₹9,990","₹13,490",25% off
+631,SAMSUNG,236 L,Double Door,,1 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Reciprocating Compressor,yes,1 Year, 10 ,"₹24,210","₹28,990",16% off
+632,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,,0 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹12,590","₹25,990",51% off
+633,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹17,990","₹21,999",18% off
+634,SAMSUNG,,Double Door,,2 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹36,590","₹46,990",22% off
+635,Godrej,472 L,Double Door,,2 Star,no,,,0 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹48,490","₹75,990",36% off
+636,CANDY,240 L,Double Door,,2 Star,no,4.3,12 Ratings,2 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹18,990","₹26,490",28% off
+637,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"3,566 Ratings",237 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹17,490","₹22,999",23% off
+638,Hitachi,565 L,Double Door,,3 Star,no,4.2,"5,271 Ratings",346 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹74,490","₹77,500",3% off
+639,SAMSUNG,236 L,Double Door,,2 Star,yes,4.4,38 Ratings,3 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹23,990","₹33,990",29% off
+640,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,"12,919 Ratings",878 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹19,990","₹30,999",35% off
+641,Haier,215 L,Single Door, Direct Cool,3 Star,no,4.3,179 Ratings,27 Reviews,Inverter Compressor,,, 10 ,"₹17,990","₹24,990",28% off
+642,CANDY,602 L,,,,no,4.6,"2,836 Ratings",310 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹49,990","₹69,490",28% off
+643,Whirlpool,215 L,Triple Door,,,no,4.3,"65,317 Ratings","4,293 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹23,990","₹30,150",20% off
+644,Lloyd,310 L,Double Door,,3 Star,no,,11 Ratings,0 Reviews,,yes,1 Year, 10 ,"₹35,390","₹53,490",33% off
+645,Godrej,331 L,Double Door,,2 Star,no,4,94 Ratings,4 Reviews,Normal Compressor,,, 10 ,"₹29,990","₹47,540",36% off
+646,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"13,765 Ratings","1,151 Reviews",Fixed Speed Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+647,Godrej,183 L,Single Door, Direct Cool,3 Star,no,4.3,550 Ratings,82 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹13,990","₹21,590",35% off
+648,Haier,190 L,Single Door, Direct Cool,3 Star,no,4.3,38 Ratings,7 Reviews,,yes,1 Year, 9 ,"₹15,990","₹22,990",30% off
+649,Lloyd,310 L,Double Door,,2 Star,no,3.9,,0 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹26,590","₹39,990",33% off
+650,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"25,002 Ratings","2,543 Reviews",Digital Inverter Compressor,yes,1 Year, 10 ,"₹16,390","₹22,999",28% off
+651,SAMSUNG,385 L,Double Door,,3 Star,no,,"9,002 Ratings",879 Reviews,Normal Compressor,,, 10 ,"₹55,699","₹71,990",22% off
+652,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+653,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"7,898 Ratings",461 Reviews,,yes,, 12 ,"₹9,990","₹13,490",25% off
+654,Haier,598 L,,,,no,4,"1,018 Ratings",101 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹79,999","₹1,39,990",42% off
+655,Whirlpool,185 L,Single Door, Direct Cool,1 Star,no,4.1,48 Ratings,4 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹12,350","₹17,350",28% off
+656,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹12,590","₹25,990",51% off
+657,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"19,653 Ratings","1,211 Reviews",Inverter Compressor,,, 10 ,"₹17,990","₹21,999",18% off
+658,Hisense,690 L,,,,no,3.2,"8,650 Ratings",792 Reviews,,yes,1 Years,,"₹60,090","₹86,990",30% off
+659,Haier,190 L,Single Door, Direct Cool,5 Star,no,4.3,120 Ratings,15 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹26,990",,
+660,CANDY,240 L,Double Door,,2 Star,no,4.3,"3,566 Ratings",237 Reviews,Smart Inverter Compressor,yes,1 Year, 10 ,"₹18,990","₹26,490",28% off
+661,LG,322 L,Double Door,,2 Star,no,4.5,"5,271 Ratings",346 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹35,990","₹43,999",18% off
+662,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"12,919 Ratings",878 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹17,490","₹22,999",23% off
+663,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,39 Ratings,7 Reviews,Reciprocating Compressor,yes,2 year, 08 ,"₹19,990","₹30,999",35% off
+664,Voltas,185 L,Single Door, Direct Cool,3 Star,no,4.3,"5,324 Ratings",496 Reviews,,yes,1 Year, 10 ,"₹15,299","₹27,090",43% off
+665,Acer,190 L,Single Door, Direct Cool,2 Star,no,4.4,"2,836 Ratings",310 Reviews,Inverter Compressor,,, 10 ,"₹13,499","₹19,999",32% off
+666,CANDY,602 L,,,,no,4.6,"65,317 Ratings","4,293 Reviews",Inverter Compressor,yes,1 Year, 9 ,"₹49,990","₹69,490",28% off
+667,Whirlpool,215 L,Triple Door,,,no,4.3,288 Ratings,35 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹23,990","₹30,150",20% off
+668,Godrej,210 L,Single Door, Direct Cool,5 Star,no,4.3,"13,765 Ratings","1,151 Reviews",Reciprocating Compressor,yes,1 Year, 10 ,"₹16,990","₹25,090",32% off
+669,Whirlpool,330 L,Triple Door,,,no,4.3,,0 Reviews,Normal Compressor,,, 10 ,"₹38,990","₹48,300",19% off
+670,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,550 Ratings,82 Reviews,,,, 9 ,"₹12,790","₹17,000",24% off
+671,Electrolux,453 L,Double Door,,1 Star,no,4.3,"25,002 Ratings","2,543 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹63,990","₹99,990",36% off
+672,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,11 Ratings,3 Reviews,Normal Compressor,,, 10 ,"₹16,390","₹22,999",28% off
+673,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"2,380 Ratings",180 Reviews,,,, 9 ,"₹12,790","₹17,000",24% off
+674,Electrolux,529 L,Double Door,,1 Star,no,4.3,"19,653 Ratings","1,211 Reviews",,yes,, 8 ,"₹78,490","₹1,34,990",41% off
+675,Liebherr,240 L,Double Door,,2 Star,no,4.5,"7,898 Ratings",461 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹24,990","₹42,170",40% off
+676,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,28 Ratings,2 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹9,990","₹13,490",25% off
+677,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,38 Ratings,2 Reviews,Digital Inverter Compressor,yes,1 Year, 20 ,"₹12,590","₹25,990",51% off
+678,SAMSUNG,189 L,Single Door,,4 Star,no,4.3,"65,317 Ratings","4,293 Reviews",,,, 9 ,"₹17,100","₹21,999",22% off
+679,Electrolux,680 L,Multi-Door,,,no,,"8,870 Ratings",998 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹1,89,990","₹3,16,990",40% off
+680,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"19,653 Ratings","1,211 Reviews",Vario Inverter Compressor,yes,1 Year, 10 ,"₹17,990","₹21,999",18% off
+681,BOSCH,263 L,Double Door,,3 Star,no,4.3,"3,566 Ratings",237 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹29,990","₹41,590",27% off
+682,CANDY,240 L,Double Door,,2 Star,no,4.3,"1,872 Ratings",198 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹18,990","₹26,490",28% off
+683,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,"3,783 Ratings",316 Reviews,Conventional Compressor,yes,1 Year, 10 ,"₹17,490","₹22,999",23% off
+684,LG,185 L,Single Door, Direct Cool,3 Star,no,3.8,"5,271 Ratings",346 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹18,899",,
+685,Whirlpool,235 L,Double Door,,2 Star,no,3.8,"12,919 Ratings",878 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹28,500","₹34,400",17% off
+686,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,65 Ratings,9 Reviews,Inverter Compressor,,, 10 ,"₹19,990","₹30,999",35% off
+687,CANDY,602 L,,,,no,4.6,"1,011 Ratings",121 Reviews,Reciprocatory Compressor,,, 5 ,"₹49,990","₹69,490",28% off
+688,MITASHI,510 L,,,,no,4,"2,836 Ratings",310 Reviews,,yes,1 year, 10 ,"₹45,590","₹72,990",37% off
+689,Whirlpool,200 L,Single Door, Direct Cool,4 Star,no,4.4,145 Ratings,23 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹18,100","₹25,400",28% off
+690,Whirlpool,215 L,Triple Door,,,no,4.3,"65,317 Ratings","4,293 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹23,990","₹30,150",20% off
+691,Godrej,210 L,Double Door,,2 Star,no,4.3,"13,765 Ratings","1,151 Reviews",Normal Compressor,,, 10 ,"₹22,490","₹28,550",21% off
+692,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,,0 Reviews,Fixed Speed Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+693,Godrej,183 L,Single Door, Direct Cool,3 Star,no,4.3,,1 Reviews,,yes,1 Year, 10 ,"₹13,990","₹21,590",35% off
+694,Whirlpool,570 L,,,,no,4.3,550 Ratings,82 Reviews,Digital Inverter Compressor,yes,1 Year, 20 ,"₹71,990","₹1,17,750",38% off
+695,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,no,4.5,"25,002 Ratings","2,543 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,,,
+696,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,36 Ratings,3 Reviews,Normal Compressor,,, 10 ,"₹16,390","₹22,999",28% off
+697,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Reciprocating Compressor,yes,1 Year, 5 ,"₹12,790","₹17,000",24% off
+698,LG,185 L,Single Door, Direct Cool,3 Star,no,4.4,26 Ratings,2 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹15,999","₹18,859",15% off
+699,Panasonic,592 L,,,,no,4.5,"7,898 Ratings",461 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹66,290","₹1,05,000",36% off
+700,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"8,316 Ratings",622 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹9,990","₹13,490",25% off
+701,Lloyd,260 L,Double Door,,2 Star,no,,"5,271 Ratings",346 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹24,290","₹43,990",44% off
+702,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,13 Ratings,0 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹12,590","₹25,990",51% off
+703,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"65,317 Ratings","4,293 Reviews",Inverter Linear Compressor,yes,1 Year, 10 ,"₹17,990","₹21,999",18% off
+704,LG,594 L,,,,no,4.4,"19,653 Ratings","1,211 Reviews",,yes,1 Year, 9 ,"₹90,990","₹1,58,490",42% off
+705,Lloyd,178 L,Single Door, Direct Cool,3 Star,no,4.3,,0 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹13,504","₹20,553",34% off
+706,CANDY,240 L,Double Door,,2 Star,no,4.3,"3,566 Ratings",237 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹18,990","₹26,490",28% off
+707,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,33 Ratings,3 Reviews,Inverter Linear Compressor,yes,1 Year, 10 ,"₹17,490","₹22,999",23% off
+708,LG,679 L,,,,no,4.5,"5,271 Ratings",346 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹75,990","₹98,990",23% off
+709,Haier,240 L,Double Door,,2 Star,no,,"12,919 Ratings",878 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹26,900","₹37,890",29% off
+710,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,33 Ratings,1 Reviews,,yes,1 Year, 10 ,"₹19,990","₹30,999",35% off
+711,Whirlpool,184 L,Single Door, Direct Cool,3 Star,no,4,,0 Reviews,Inverter Compressor,,, 10 ,"₹16,499","₹19,400",14% off
+712,CANDY,602 L,,,,no,4.6,"2,836 Ratings",310 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹49,990","₹69,490",28% off
+713,Whirlpool,215 L,Triple Door,,,no,4.3,"65,317 Ratings","4,293 Reviews",DC Inverter Compressor,yes,1 Year, 10 ,"₹23,990","₹30,150",20% off
+714,Midea,661 L,,,,no,4.4,10 Ratings,0 Reviews,Fixed Speed Compressor,yes,1 Year, 10 ,"₹71,990","₹1,14,990",37% off
+715,Godrej,234 L,Single Door, Direct Cool,5 Star,no,4.2,12 Ratings,2 Reviews,Normal Compressor,,, 10 ,"₹19,390","₹28,290",31% off
+716,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"13,765 Ratings","1,151 Reviews",Fixed Speed Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+717,Godrej,183 L,Single Door, Direct Cool,3 Star,no,4.3,"9,002 Ratings",879 Reviews,Vario Inverter Compressor,yes,1 Year, 10 ,"₹13,990","₹21,590",35% off
+718,BOSCH,290 L,Double Door,,4 Star,no,4.7,550 Ratings,82 Reviews,,,,,"₹42,990","₹50,690",15% off
+719,Whirlpool,190 L,Single Door, Direct Cool,3 Star,no,3.9,"25,002 Ratings","2,543 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹17,390","₹20,450",14% off
+720,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,71 Ratings,5 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹16,390","₹22,999",28% off
+721,Whirlpool,190 L,Single Door, Direct Cool,4 Star,no,4.3,"5,271 Ratings",346 Reviews,Normal Compressor,,, 10 ,"₹20,999",,
+722,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Normal Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+723,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"65,317 Ratings","4,293 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹9,990","₹13,490",25% off
+724,Haier,602 L,,,,no,4.5,"19,653 Ratings","1,211 Reviews",Linear Compressor,yes,1 Year, 10 ,"₹84,990","₹1,22,490",30% off
+725,SAMSUNG,192 L,Single Door, Direct Cool,2 Star,no,4.4,14 Ratings,1 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹14,090","₹15,990",11% off
+726,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"5,271 Ratings",346 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹12,590","₹25,990",51% off
+727,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,"3,566 Ratings",237 Reviews,Intellisense Inverter Compressor,yes,1 Year, 10 ,"₹17,990","₹21,999",18% off
+728,Whirlpool,325 L,Double Door,,3 Star,no,4.2,28 Ratings,0 Reviews,,yes,1 Year, 10 ,"₹37,290","₹41,550",10% off
+729,Godrej,350 L,Double Door,,2 Star,no,4.1,"5,271 Ratings",346 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹34,890","₹50,245",30% off
+730,CANDY,240 L,Double Door,,2 Star,no,4.3,"12,919 Ratings",878 Reviews,Intelligent Inverter Compressor,yes,1 Year, 10 ,"₹18,990","₹26,490",28% off
+731,Godrej,270 L,Double Door,,2 Star,no,3.9,"2,836 Ratings",310 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹27,450","₹28,900",5% off
+732,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,172 Ratings,20 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹17,490","₹22,999",23% off
+733,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 Year, 20 ,"₹19,990","₹30,999",35% off
+734,SAMSUNG,385 L,Double Door,,2 Star,no,4.2,"13,765 Ratings","1,151 Reviews",Inverter Linear Compressor,yes,1 Year, 10 ,"₹44,990","₹64,990",30% off
+735,LG,547 L,Double Door,,2 Star,no,4.4,23 Ratings,5 Reviews,Inverter Compressor,,, 10 ,"₹65,990","₹73,090",9% off
+736,CANDY,602 L,,,,no,4.6,550 Ratings,82 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹49,990","₹69,490",28% off
+737,Whirlpool,215 L,Triple Door,,,no,4.3,473 Ratings,66 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹23,990","₹30,150",20% off
+738,Godrej,272 L,Double Door,,2 Star,no,,"25,002 Ratings","2,543 Reviews",Digital Inverter Compressor,yes,1 Year, 20 ,"₹30,990","₹37,990",18% off
+739,SAMSUNG,183 L,Single Door, Direct Cool,2 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Normal Compressor,,, 10 ,"₹15,100","₹18,999",20% off
+740,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,,1 Reviews,Digital Inverter Compressor,yes,1 Year, 20 ,"₹12,790","₹17,000",24% off
+741,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,no,4,13 Ratings,0 Reviews,Fixed Speed Compressor,yes,1 Year, 10 ,"₹18,500","₹21,999",15% off
+742,Godrej,183 L,Single Door, Direct Cool,3 Star,no,4.3,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹13,990","₹21,590",35% off
+743,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.4,"19,653 Ratings","1,211 Reviews",Reciprocating Compressor,yes,2 Years, 10 ,"₹15,690","₹21,999",28% off
+744,Voltas,245 L,Double Door, Direct Cool,3 Star,no,4.3,48 Ratings,4 Reviews,,yes,1 Years, 10 ,"₹28,990","₹31,999",9% off
+745,Haier,205 L,Single Door, Direct Cool,3 Star,no,3.8,"15,637 Ratings","1,110 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹17,511","₹25,461",31% off
+746,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,"15,637 Ratings","1,110 Reviews",Normal Compressor,,, 10 ,"₹16,390","₹22,999",28% off
+747,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,,0 Reviews,Linear Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+748,Godrej,234 L,Double Door,,2 Star,no,3.3,,0 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹24,599","₹29,000",15% off
+749,Godrej,233 L,Double Door,,2 Star,no,,"3,566 Ratings",237 Reviews,Normal Compressor,yes,1 Year, 10 ,"₹32,000",,
+750,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,"12,919 Ratings",878 Reviews,Smart Inverter Compressor,yes,1 Year, 10 ,"₹9,990","₹13,490",25% off
+751,LG,412 L,Double Door,,1 Star,no,4.4,13 Ratings,1 Reviews,Reciprocating Compressor,yes,1 Year, 10 ,"₹46,990","₹60,899",22% off
+752,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,"65,317 Ratings","4,293 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹12,590","₹25,990",51% off
+753,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,17 Ratings,2 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹17,990","₹21,999",18% off
+754,Lloyd,200 L,Single Door, Direct Cool,3 Star,no,4.7,"13,765 Ratings","1,151 Reviews",Normal Compressor,yes,1 Year, 9 ,"₹16,285","₹18,490",11% off
+755,Whirlpool,192 L,Single Door, Direct Cool,4 Star,no,4,"25,002 Ratings","2,543 Reviews",Inverter Compressor,yes,1 Year, 10 ,"₹18,239","₹22,250",18% off
+756,CANDY,240 L,Double Door,,2 Star,no,4.3,"5,324 Ratings",496 Reviews,Digital Inverter Compressor,yes,1 year, 20 ,"₹18,990","₹26,490",28% off
+757,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,,1 Reviews,,yes,1 Year, 10 ,"₹17,490","₹22,999",23% off
+758,Whirlpool,207 L,Single Door, Direct Cool,5 Star,no,4.5,"5,271 Ratings",346 Reviews,Inverter Compressor,yes,1 Year, 9 ,"₹19,990","₹27,500",27% off
+759,Lloyd,340 L,Double Door,,3 Star,no,4.3,"19,653 Ratings","1,211 Reviews",Digital Inverter Compressor,yes,1 year, 20 ,"₹30,190","₹44,990",32% off
+760,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,48 Ratings,5 Reviews,Inverter Compressor,yes,1 Year, 10 ,"₹19,990","₹30,999",35% off
+761,Godrej,253 L,Double Door,,2 Star,no,4.3,12 Ratings,2 Reviews,Inverter Compressor,,, 10 ,"₹24,900","₹33,015",24% off
+762,CANDY,602 L,,,,no,4.6,,,Inverter Compressor,yes,1 Year, 9 ,"₹49,990","₹69,490",28% off
+763,Whirlpool,215 L,Triple Door,,,no,4.3,,,,yes,1 Year, 10 ,"₹23,990","₹30,150",20% off
+764,Haier,598 L,Multi-Door,,3 Star,no,,,,Smart Inverter Compressor,yes,1 Year, 10 ,"₹99,990","₹1,49,290",33% off
+765,LG,412 L,Double Door,,1 Star,no,4.4,,,Reciprocating Compressor,yes,1 Year, 10 ,"₹45,490","₹58,699",22% off
+766,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,,,Normal Compressor,,, 10 ,"₹11,690","₹24,990",53% off
+767,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,,,Digital Inverter Compressor,yes,1 year, 20 ,"₹12,790","₹17,000",24% off
+768,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,,,Normal Compressor,,, 10 ,"₹16,390","₹22,999",28% off
+769,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,,,Digital Inverter Compressor,yes,1 year, 20 ,"₹12,790","₹17,000",24% off
+770,SAMSUNG,189 L,Single Door, Direct Cool,3 Star,no,4.4,,,Inverter Compressor,,, 10 ,"₹18,374","₹19,490",5% off
+771,Godrej,233 L,Double Door,,2 Star,no,,,,Reciprocating Compressor,yes,1 Year, 10 ,"₹24,994","₹33,015",24% off
+772,Voltas,183 L,Single Door, Direct Cool,3 Star,no,4.3,,,Normal Compressor,yes,1 Year, 10 ,"₹12,790","₹26,490",51% off
+773,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,,,Smart Inverter Compressor,yes,1 Year, 10 ,"₹9,990","₹13,490",25% off
+774,LG,201 L,Single Door, Direct Cool,4 Star,no,4.3,,,Inverter Compressor,yes,1 Year, 9 ,"₹18,990","₹23,090",17% off
+775,Lloyd,310 L,Double Door,,2 Star,no,,,,Reciprocating Compressor,yes,1 Year, 10 ,"₹32,290","₹50,990",36% off
+776,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,,,Normal Compressor,yes,1 year, 10 ,"₹12,590","₹25,990",51% off
+777,Lloyd,188 L,Single Door, Direct Cool,1 Star,no,,,,Digital Inverter Compressor,yes,1 year, 20 ,"₹13,649","₹17,990",24% off
+778,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,,,Inverter Compressor,yes,1 Year, 10 ,"₹17,990","₹21,999",18% off
+779,CANDY,240 L,Double Door,,2 Star,no,4.3,,,Digital Inverter Compressor,yes,1 Year, 20 ,"₹18,990","₹26,490",28% off
+780,SAMSUNG,236 L,Double Door,,3 Star,no,,,,Inverter Compressor,yes,1 Year, 9 ,"₹41,990",,
+781,Whirlpool,327 L,Double Door,,2 Star,no,4.2,,,Digital Inverter Compressor,yes,1 year, 20 ,"₹44,990","₹56,890",20% off
+782,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,,,Digital Inverter Compressor,yes,1 year, 20 ,"₹17,490","₹22,999",23% off
+783,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,,,Inverter Compressor,yes,1 Year, 9 ,"₹19,990","₹30,999",35% off
+784,Lloyd,280 L,Double Door,,2 Star,no,,,,Reciprocatory Compressor,yes,1 Year, 10 ,"₹29,690","₹47,490",37% off
+785,Panasonic,296 L,Double Door,,2 Star,no,4.4,,,Inverter Compressor,,, 10 ,"₹30,590","₹39,500",22% off
+786,CANDY,602 L,,,,no,4.6,,,Inverter Compressor,yes,1 year, 10 ,"₹49,990","₹69,490",28% off
+787,Panasonic,275 L,Double Door,,3 Star,no,4.3,,,Inverter Compressor,yes,1 Year, 9 ,"₹30,390","₹51,500",40% off
+788,Whirlpool,215 L,Triple Door,,,no,4.3,,,Normal Compressor,,, 10 ,"₹23,990","₹30,150",20% off
+789,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,,,Smart Inverter Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+790,LG,343 L,Double Door,,3 Star,no,4.4,,,Inverter Compressor,yes,1 Year, 10 ,"₹47,790","₹63,099",24% off
+791,Whirlpool,192 L,Single Door, Direct Cool,3 Star,no,3.8,,,Digital Inverter Compressor,yes,1 year, 20 ,"₹19,500","₹26,150",25% off
+792,SAMSUNG,183 L,Single Door, Direct Cool,4 Star,yes,4.5,,,Normal Compressor,,, 10 ,"₹16,390","₹22,999",28% off
+793,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,,,Fixed Speed Compressor,,, 10 ,"₹12,790","₹17,000",24% off
+794,Godrej,192 L,Single Door, Direct Cool,3 Star,no,3.8,,,,yes,1 Years,,"₹18,490","₹23,490",21% off
+795,Whirlpool,192 L,Single Door, Direct Cool,3 Star,no,,,,Inverter Compressor,yes,1 Year, 9 ,"₹15,890","₹20,100",20% off
+796,Whirlpool,184 L,Single Door, Direct Cool,5 Star,no,4.3,,,Digital Inverter Compressor,yes,1 Year, 20 ,"₹16,490","₹21,450",23% off
+797,SAMSUNG,580 L,French Door,,,no,,,,Reciprocating Compressor,yes,1 Year, 9 ,"₹85,990","₹1,25,000",31% off
+798,Whirlpool,192 L,Single Door, Direct Cool,4 Star,no,4.3,,,Reciprocating Compressor,yes,1 Year, 9 ,"₹15,490","₹21,750",28% off
+799,Whirlpool,192 L,Single Door, Direct Cool,4 Star,no,,,,Digital Inverter Compressor,yes,1 Year, 10 ,"₹14,990","₹20,500",26% off
+800,SAMSUNG,223 L,Single Door, Direct Cool,3 Star,no,3.2,,,Inverter Compressor,yes,1 Year, 10 ,"₹19,200","₹23,999",19% off
+801,Godrej,670 L,Multi-Door,,,no,3.3,,,Normal Compressor,yes,1 Year, 10 ,"₹86,390","₹1,20,000",28% off
+802,CANDY,165 L,Single Door, Direct Cool,1 Star,no,4.1,,,Digital Inverter Compressor,yes,1 year, 20 ,"₹9,990","₹13,490",25% off
+803,SAMSUNG,189 L,Single Door, Direct Cool,5 Star,yes,4.5,,,Inverter Linear Compressor,,, 10 ,"₹17,990","₹21,999",18% off
+804,LG,668 L,,,,no,3.8,,,Digital Inverter Compressor,yes,1 Year, 20 ,"₹1,59,990","₹1,88,990",15% off
+805,SAMSUNG,635 L,, Direct Cool,3 Star,no,,,,Digital Inverter Compressor,yes,1 year, 20 ,"₹1,52,990","₹2,47,000",38% off
+806,SAMSUNG,183 L,Single Door, Direct Cool,5 Star,yes,4.5,,,Smart Inverter Compressor,yes,1 Year, 10 ,"₹17,490","₹22,999",23% off
+807,LG,185 L,Single Door, Direct Cool,3 Star,no,4.4,,,Digital Inverter Compressor,yes,1 year, 20 ,"₹17,479","₹20,699",15% off
+808,SAMSUNG,215 L,Single Door, Direct Cool,5 Star,yes,4.4,,,Inverter Compressor,yes,1 Year, 9 ,"₹19,990","₹30,999",35% off
+809,Whirlpool,215 L,Triple Door,,,no,4.3,,,,yes,1 Year, 9 ,"₹23,990","₹30,150",20% off
+810,Lloyd,200 L,Single Door, Direct Cool,2 Star,no,4.3,,,Digital Inverter Compressor,yes,1 Year, 20 ,"₹15,890","₹22,890",30% off
+811,SAMSUNG,224 L,Double Door,,2 Star,no,4.3,,,Reciprocating Compressor,yes,1 Year, 10 ,"₹31,800","₹41,990",24% off
+812,Voltas,183 L,Single Door, Direct Cool,2 Star,no,4.3,,,Normal Compressor,,, 10 ,"₹12,590","₹25,990",51% off
+813,Whirlpool,184 L,Single Door, Direct Cool,2 Star,no,4.3,,,Normal Compressor,yes,1 Year, 10 ,"₹12,790","₹17,000",24% off
+814,Haier,630 L,Single Door,,,no,4.4,,,,yes,1 Year, 10 ,"₹69,990","₹1,31,900",46% off
+815,Haier,190 L,Single Door, Direct Cool,5 Star,no,4.5,,,,,,,"₹18,594","₹25,490",27% off
